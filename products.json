@@ -1,0 +1,5005 @@
+{
+  "count": 500,
+  "products": [
+    {
+      "id": 1001,
+      "name": "Vintage Hat 641",
+      "category": "Apparel",
+      "subcategory": "Hat",
+      "price": 299.99,
+      "currency": "USD",
+      "stock": 105,
+      "rating": 4.8
+    },
+    {
+      "id": 1002,
+      "name": "Wireless Dumbbells 405",
+      "category": "Sports",
+      "subcategory": "Dumbbells",
+      "price": 913.7,
+      "currency": "USD",
+      "stock": 140,
+      "rating": 3.3
+    },
+    {
+      "id": 1003,
+      "name": "Organic Jeans 814",
+      "category": "Apparel",
+      "subcategory": "Jeans",
+      "price": 308.3,
+      "currency": "USD",
+      "stock": 0,
+      "rating": 3.0
+    },
+    {
+      "id": 1004,
+      "name": "Compact Smartwatch 406",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 197.2,
+      "currency": "USD",
+      "stock": 103,
+      "rating": 4.9
+    },
+    {
+      "id": 1005,
+      "name": "Solar-Powered Hat 588",
+      "category": "Apparel",
+      "subcategory": "Hat",
+      "price": 587.0,
+      "currency": "USD",
+      "stock": 137,
+      "rating": 3.9
+    },
+    {
+      "id": 1006,
+      "name": "Solar-Powered Monitor 279",
+      "category": "Electronics",
+      "subcategory": "Monitor",
+      "price": 33.85,
+      "currency": "USD",
+      "stock": 140,
+      "rating": 4.4
+    },
+    {
+      "id": 1007,
+      "name": "Compact Knife Set 614",
+      "category": "Home & Kitchen",
+      "subcategory": "Knife Set",
+      "price": 719.2,
+      "currency": "USD",
+      "stock": 94,
+      "rating": 4.0
+    },
+    {
+      "id": 1008,
+      "name": "Portable Blender 261",
+      "category": "Home & Kitchen",
+      "subcategory": "Blender",
+      "price": 592.84,
+      "currency": "USD",
+      "stock": 56,
+      "rating": 3.3
+    },
+    {
+      "id": 1009,
+      "name": "Heavy-Duty Speaker 352",
+      "category": "Electronics",
+      "subcategory": "Speaker",
+      "price": 714.51,
+      "currency": "USD",
+      "stock": 73,
+      "rating": 3.8
+    },
+    {
+      "id": 1010,
+      "name": "Compact Biography 371",
+      "category": "Books",
+      "subcategory": "Biography",
+      "price": 324.28,
+      "currency": "USD",
+      "stock": 71,
+      "rating": 3.7
+    },
+    {
+      "id": 1011,
+      "name": "Portable Cookbook 562",
+      "category": "Books",
+      "subcategory": "Cookbook",
+      "price": 837.28,
+      "currency": "USD",
+      "stock": 9,
+      "rating": 4.9
+    },
+    {
+      "id": 1012,
+      "name": "Smart Art Book 954",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 225.09,
+      "currency": "USD",
+      "stock": 63,
+      "rating": 4.0
+    },
+    {
+      "id": 1013,
+      "name": "Wireless Bicycle 589",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 327.0,
+      "currency": "USD",
+      "stock": 60,
+      "rating": 4.7
+    },
+    {
+      "id": 1014,
+      "name": "Luxury Art Book 615",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 85.48,
+      "currency": "USD",
+      "stock": 59,
+      "rating": 3.2
+    },
+    {
+      "id": 1015,
+      "name": "Waterproof Backpack 947",
+      "category": "Sports",
+      "subcategory": "Backpack",
+      "price": 724.03,
+      "currency": "USD",
+      "stock": 118,
+      "rating": 3.8
+    },
+    {
+      "id": 1016,
+      "name": "Heavy-Duty Art Book 593",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 953.85,
+      "currency": "USD",
+      "stock": 38,
+      "rating": 4.1
+    },
+    {
+      "id": 1017,
+      "name": "Organic Air Fryer 667",
+      "category": "Home & Kitchen",
+      "subcategory": "Air Fryer",
+      "price": 150.51,
+      "currency": "USD",
+      "stock": 14,
+      "rating": 3.5
+    },
+    {
+      "id": 1018,
+      "name": "Stainless Steel Jacket 690",
+      "category": "Apparel",
+      "subcategory": "Jacket",
+      "price": 409.06,
+      "currency": "USD",
+      "stock": 27,
+      "rating": 3.6
+    },
+    {
+      "id": 1019,
+      "name": "Smart Speaker 233",
+      "category": "Electronics",
+      "subcategory": "Speaker",
+      "price": 378.11,
+      "currency": "USD",
+      "stock": 14,
+      "rating": 4.6
+    },
+    {
+      "id": 1020,
+      "name": "Portable Sunglasses 235",
+      "category": "Apparel",
+      "subcategory": "Sunglasses",
+      "price": 458.88,
+      "currency": "USD",
+      "stock": 0,
+      "rating": 4.8
+    },
+    {
+      "id": 1021,
+      "name": "Ergonomic Novel 290",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 954.46,
+      "currency": "USD",
+      "stock": 116,
+      "rating": 3.7
+    },
+    {
+      "id": 1022,
+      "name": "Organic Guide 496",
+      "category": "Books",
+      "subcategory": "Guide",
+      "price": 417.97,
+      "currency": "USD",
+      "stock": 85,
+      "rating": 4.8
+    },
+    {
+      "id": 1023,
+      "name": "Smart Monitor 265",
+      "category": "Electronics",
+      "subcategory": "Monitor",
+      "price": 626.41,
+      "currency": "USD",
+      "stock": 149,
+      "rating": 4.7
+    },
+    {
+      "id": 1024,
+      "name": "Compact Laptop 784",
+      "category": "Electronics",
+      "subcategory": "Laptop",
+      "price": 675.5,
+      "currency": "USD",
+      "stock": 75,
+      "rating": 3.8
+    },
+    {
+      "id": 1025,
+      "name": "Wireless Running Shoes 986",
+      "category": "Sports",
+      "subcategory": "Running Shoes",
+      "price": 581.55,
+      "currency": "USD",
+      "stock": 125,
+      "rating": 3.6
+    },
+    {
+      "id": 1026,
+      "name": "Portable Air Fryer 877",
+      "category": "Home & Kitchen",
+      "subcategory": "Air Fryer",
+      "price": 383.34,
+      "currency": "USD",
+      "stock": 107,
+      "rating": 4.2
+    },
+    {
+      "id": 1027,
+      "name": "Ergonomic Hat 761",
+      "category": "Apparel",
+      "subcategory": "Hat",
+      "price": 885.74,
+      "currency": "USD",
+      "stock": 15,
+      "rating": 3.9
+    },
+    {
+      "id": 1028,
+      "name": "Solar-Powered Art Book 199",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 802.64,
+      "currency": "USD",
+      "stock": 76,
+      "rating": 3.3
+    },
+    {
+      "id": 1029,
+      "name": "Heavy-Duty Backpack 298",
+      "category": "Sports",
+      "subcategory": "Backpack",
+      "price": 848.8,
+      "currency": "USD",
+      "stock": 141,
+      "rating": 4.8
+    },
+    {
+      "id": 1030,
+      "name": "Solar-Powered Textbook 773",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 614.84,
+      "currency": "USD",
+      "stock": 135,
+      "rating": 4.8
+    },
+    {
+      "id": 1031,
+      "name": "Compact Laptop 427",
+      "category": "Electronics",
+      "subcategory": "Laptop",
+      "price": 223.58,
+      "currency": "USD",
+      "stock": 47,
+      "rating": 3.9
+    },
+    {
+      "id": 1032,
+      "name": "Smart Knife Set 502",
+      "category": "Home & Kitchen",
+      "subcategory": "Knife Set",
+      "price": 462.91,
+      "currency": "USD",
+      "stock": 11,
+      "rating": 3.3
+    },
+    {
+      "id": 1033,
+      "name": "Portable Jacket 209",
+      "category": "Apparel",
+      "subcategory": "Jacket",
+      "price": 938.7,
+      "currency": "USD",
+      "stock": 67,
+      "rating": 4.7
+    },
+    {
+      "id": 1034,
+      "name": "Wireless Camera 566",
+      "category": "Electronics",
+      "subcategory": "Camera",
+      "price": 395.15,
+      "currency": "USD",
+      "stock": 96,
+      "rating": 3.1
+    },
+    {
+      "id": 1035,
+      "name": "Ergonomic Vacuum 183",
+      "category": "Home & Kitchen",
+      "subcategory": "Vacuum",
+      "price": 875.27,
+      "currency": "USD",
+      "stock": 18,
+      "rating": 4.4
+    },
+    {
+      "id": 1036,
+      "name": "Waterproof Scarf 570",
+      "category": "Apparel",
+      "subcategory": "Scarf",
+      "price": 255.41,
+      "currency": "USD",
+      "stock": 13,
+      "rating": 3.9
+    },
+    {
+      "id": 1037,
+      "name": "Stainless Steel Coffee Maker 711",
+      "category": "Home & Kitchen",
+      "subcategory": "Coffee Maker",
+      "price": 557.37,
+      "currency": "USD",
+      "stock": 12,
+      "rating": 4.2
+    },
+    {
+      "id": 1038,
+      "name": "Organic Speaker 248",
+      "category": "Electronics",
+      "subcategory": "Speaker",
+      "price": 974.83,
+      "currency": "USD",
+      "stock": 76,
+      "rating": 3.7
+    },
+    {
+      "id": 1039,
+      "name": "Compact Novel 286",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 15.89,
+      "currency": "USD",
+      "stock": 91,
+      "rating": 4.8
+    },
+    {
+      "id": 1040,
+      "name": "Organic Textbook 777",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 305.13,
+      "currency": "USD",
+      "stock": 107,
+      "rating": 4.5
+    },
+    {
+      "id": 1041,
+      "name": "Organic Desk Lamp 995",
+      "category": "Home & Kitchen",
+      "subcategory": "Desk Lamp",
+      "price": 371.75,
+      "currency": "USD",
+      "stock": 134,
+      "rating": 4.7
+    },
+    {
+      "id": 1042,
+      "name": "Vintage Hat 341",
+      "category": "Apparel",
+      "subcategory": "Hat",
+      "price": 869.28,
+      "currency": "USD",
+      "stock": 126,
+      "rating": 3.6
+    },
+    {
+      "id": 1043,
+      "name": "Smart Smartphone 174",
+      "category": "Electronics",
+      "subcategory": "Smartphone",
+      "price": 788.98,
+      "currency": "USD",
+      "stock": 126,
+      "rating": 4.6
+    },
+    {
+      "id": 1044,
+      "name": "Compact Jacket 504",
+      "category": "Apparel",
+      "subcategory": "Jacket",
+      "price": 10.81,
+      "currency": "USD",
+      "stock": 88,
+      "rating": 4.9
+    },
+    {
+      "id": 1045,
+      "name": "Vintage Smartwatch 594",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 781.41,
+      "currency": "USD",
+      "stock": 59,
+      "rating": 3.3
+    },
+    {
+      "id": 1046,
+      "name": "Luxury Sunglasses 386",
+      "category": "Apparel",
+      "subcategory": "Sunglasses",
+      "price": 638.04,
+      "currency": "USD",
+      "stock": 129,
+      "rating": 3.1
+    },
+    {
+      "id": 1047,
+      "name": "Smart Novel 902",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 583.97,
+      "currency": "USD",
+      "stock": 131,
+      "rating": 4.9
+    },
+    {
+      "id": 1048,
+      "name": "Heavy-Duty Tent 993",
+      "category": "Sports",
+      "subcategory": "Tent",
+      "price": 643.94,
+      "currency": "USD",
+      "stock": 21,
+      "rating": 4.0
+    },
+    {
+      "id": 1049,
+      "name": "Wireless Cookbook 772",
+      "category": "Books",
+      "subcategory": "Cookbook",
+      "price": 258.74,
+      "currency": "USD",
+      "stock": 68,
+      "rating": 4.5
+    },
+    {
+      "id": 1050,
+      "name": "Ergonomic Toaster 900",
+      "category": "Home & Kitchen",
+      "subcategory": "Toaster",
+      "price": 373.23,
+      "currency": "USD",
+      "stock": 136,
+      "rating": 4.9
+    },
+    {
+      "id": 1051,
+      "name": "Wireless Blender 953",
+      "category": "Home & Kitchen",
+      "subcategory": "Blender",
+      "price": 759.19,
+      "currency": "USD",
+      "stock": 143,
+      "rating": 4.8
+    },
+    {
+      "id": 1052,
+      "name": "Wireless Yoga Mat 881",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 804.97,
+      "currency": "USD",
+      "stock": 121,
+      "rating": 4.8
+    },
+    {
+      "id": 1053,
+      "name": "Compact Tent 892",
+      "category": "Sports",
+      "subcategory": "Tent",
+      "price": 42.15,
+      "currency": "USD",
+      "stock": 130,
+      "rating": 4.8
+    },
+    {
+      "id": 1054,
+      "name": "Wireless Biography 188",
+      "category": "Books",
+      "subcategory": "Biography",
+      "price": 490.78,
+      "currency": "USD",
+      "stock": 28,
+      "rating": 5.0
+    },
+    {
+      "id": 1055,
+      "name": "Stainless Steel Guide 586",
+      "category": "Books",
+      "subcategory": "Guide",
+      "price": 209.37,
+      "currency": "USD",
+      "stock": 93,
+      "rating": 4.8
+    },
+    {
+      "id": 1056,
+      "name": "Solar-Powered Scarf 740",
+      "category": "Apparel",
+      "subcategory": "Scarf",
+      "price": 277.64,
+      "currency": "USD",
+      "stock": 105,
+      "rating": 4.2
+    },
+    {
+      "id": 1057,
+      "name": "Portable Smartphone 542",
+      "category": "Electronics",
+      "subcategory": "Smartphone",
+      "price": 138.74,
+      "currency": "USD",
+      "stock": 143,
+      "rating": 4.3
+    },
+    {
+      "id": 1058,
+      "name": "Portable Knife Set 945",
+      "category": "Home & Kitchen",
+      "subcategory": "Knife Set",
+      "price": 546.29,
+      "currency": "USD",
+      "stock": 1,
+      "rating": 4.7
+    },
+    {
+      "id": 1059,
+      "name": "Ergonomic Biography 470",
+      "category": "Books",
+      "subcategory": "Biography",
+      "price": 186.36,
+      "currency": "USD",
+      "stock": 88,
+      "rating": 4.5
+    },
+    {
+      "id": 1060,
+      "name": "Smart Desk Lamp 779",
+      "category": "Home & Kitchen",
+      "subcategory": "Desk Lamp",
+      "price": 387.66,
+      "currency": "USD",
+      "stock": 118,
+      "rating": 3.4
+    },
+    {
+      "id": 1061,
+      "name": "Luxury Running Shoes 466",
+      "category": "Sports",
+      "subcategory": "Running Shoes",
+      "price": 216.13,
+      "currency": "USD",
+      "stock": 146,
+      "rating": 4.1
+    },
+    {
+      "id": 1062,
+      "name": "Wireless Bicycle 202",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 233.8,
+      "currency": "USD",
+      "stock": 139,
+      "rating": 4.8
+    },
+    {
+      "id": 1063,
+      "name": "Solar-Powered Blender 730",
+      "category": "Home & Kitchen",
+      "subcategory": "Blender",
+      "price": 904.11,
+      "currency": "USD",
+      "stock": 124,
+      "rating": 4.9
+    },
+    {
+      "id": 1064,
+      "name": "Heavy-Duty Yoga Mat 470",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 923.13,
+      "currency": "USD",
+      "stock": 126,
+      "rating": 4.8
+    },
+    {
+      "id": 1065,
+      "name": "Waterproof Novel 196",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 89.0,
+      "currency": "USD",
+      "stock": 86,
+      "rating": 3.9
+    },
+    {
+      "id": 1066,
+      "name": "Solar-Powered Smartphone 368",
+      "category": "Electronics",
+      "subcategory": "Smartphone",
+      "price": 724.03,
+      "currency": "USD",
+      "stock": 97,
+      "rating": 5.0
+    },
+    {
+      "id": 1067,
+      "name": "Portable Hat 428",
+      "category": "Apparel",
+      "subcategory": "Hat",
+      "price": 830.95,
+      "currency": "USD",
+      "stock": 72,
+      "rating": 3.5
+    },
+    {
+      "id": 1068,
+      "name": "Luxury Vacuum 387",
+      "category": "Home & Kitchen",
+      "subcategory": "Vacuum",
+      "price": 771.55,
+      "currency": "USD",
+      "stock": 105,
+      "rating": 4.5
+    },
+    {
+      "id": 1069,
+      "name": "Heavy-Duty Hat 193",
+      "category": "Apparel",
+      "subcategory": "Hat",
+      "price": 838.99,
+      "currency": "USD",
+      "stock": 6,
+      "rating": 3.2
+    },
+    {
+      "id": 1070,
+      "name": "Heavy-Duty Dumbbells 552",
+      "category": "Sports",
+      "subcategory": "Dumbbells",
+      "price": 847.14,
+      "currency": "USD",
+      "stock": 45,
+      "rating": 4.9
+    },
+    {
+      "id": 1071,
+      "name": "Luxury Novel 261",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 833.29,
+      "currency": "USD",
+      "stock": 112,
+      "rating": 3.5
+    },
+    {
+      "id": 1072,
+      "name": "Compact Backpack 101",
+      "category": "Sports",
+      "subcategory": "Backpack",
+      "price": 513.55,
+      "currency": "USD",
+      "stock": 150,
+      "rating": 4.8
+    },
+    {
+      "id": 1073,
+      "name": "Organic Blender 398",
+      "category": "Home & Kitchen",
+      "subcategory": "Blender",
+      "price": 726.95,
+      "currency": "USD",
+      "stock": 52,
+      "rating": 4.7
+    },
+    {
+      "id": 1074,
+      "name": "Ergonomic Biography 827",
+      "category": "Books",
+      "subcategory": "Biography",
+      "price": 225.74,
+      "currency": "USD",
+      "stock": 1,
+      "rating": 3.9
+    },
+    {
+      "id": 1075,
+      "name": "Luxury T-Shirt 263",
+      "category": "Apparel",
+      "subcategory": "T-Shirt",
+      "price": 543.39,
+      "currency": "USD",
+      "stock": 69,
+      "rating": 4.1
+    },
+    {
+      "id": 1076,
+      "name": "Stainless Steel Headphones 728",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 19.88,
+      "currency": "USD",
+      "stock": 8,
+      "rating": 4.6
+    },
+    {
+      "id": 1077,
+      "name": "Waterproof Running Shoes 187",
+      "category": "Sports",
+      "subcategory": "Running Shoes",
+      "price": 359.64,
+      "currency": "USD",
+      "stock": 56,
+      "rating": 3.5
+    },
+    {
+      "id": 1078,
+      "name": "Smart Yoga Mat 558",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 853.79,
+      "currency": "USD",
+      "stock": 35,
+      "rating": 4.7
+    },
+    {
+      "id": 1079,
+      "name": "Ergonomic Tent 221",
+      "category": "Sports",
+      "subcategory": "Tent",
+      "price": 912.0,
+      "currency": "USD",
+      "stock": 2,
+      "rating": 3.5
+    },
+    {
+      "id": 1080,
+      "name": "Wireless Toaster 663",
+      "category": "Home & Kitchen",
+      "subcategory": "Toaster",
+      "price": 257.3,
+      "currency": "USD",
+      "stock": 57,
+      "rating": 4.0
+    },
+    {
+      "id": 1081,
+      "name": "Portable Smartphone 662",
+      "category": "Electronics",
+      "subcategory": "Smartphone",
+      "price": 733.36,
+      "currency": "USD",
+      "stock": 59,
+      "rating": 3.1
+    },
+    {
+      "id": 1082,
+      "name": "Heavy-Duty Coffee Maker 328",
+      "category": "Home & Kitchen",
+      "subcategory": "Coffee Maker",
+      "price": 736.88,
+      "currency": "USD",
+      "stock": 4,
+      "rating": 4.1
+    },
+    {
+      "id": 1083,
+      "name": "Organic Monitor 937",
+      "category": "Electronics",
+      "subcategory": "Monitor",
+      "price": 73.75,
+      "currency": "USD",
+      "stock": 112,
+      "rating": 4.7
+    },
+    {
+      "id": 1084,
+      "name": "Heavy-Duty Guide 466",
+      "category": "Books",
+      "subcategory": "Guide",
+      "price": 257.33,
+      "currency": "USD",
+      "stock": 106,
+      "rating": 3.7
+    },
+    {
+      "id": 1085,
+      "name": "Smart Air Fryer 466",
+      "category": "Home & Kitchen",
+      "subcategory": "Air Fryer",
+      "price": 124.39,
+      "currency": "USD",
+      "stock": 28,
+      "rating": 3.0
+    },
+    {
+      "id": 1086,
+      "name": "Smart Headphones 379",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 535.81,
+      "currency": "USD",
+      "stock": 137,
+      "rating": 3.8
+    },
+    {
+      "id": 1087,
+      "name": "Vintage Jacket 607",
+      "category": "Apparel",
+      "subcategory": "Jacket",
+      "price": 172.15,
+      "currency": "USD",
+      "stock": 130,
+      "rating": 4.7
+    },
+    {
+      "id": 1088,
+      "name": "Compact Textbook 934",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 512.35,
+      "currency": "USD",
+      "stock": 67,
+      "rating": 3.6
+    },
+    {
+      "id": 1089,
+      "name": "Heavy-Duty Novel 420",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 335.12,
+      "currency": "USD",
+      "stock": 122,
+      "rating": 4.7
+    },
+    {
+      "id": 1090,
+      "name": "Compact Guide 683",
+      "category": "Books",
+      "subcategory": "Guide",
+      "price": 159.78,
+      "currency": "USD",
+      "stock": 96,
+      "rating": 4.5
+    },
+    {
+      "id": 1091,
+      "name": "Smart Scarf 221",
+      "category": "Apparel",
+      "subcategory": "Scarf",
+      "price": 766.45,
+      "currency": "USD",
+      "stock": 98,
+      "rating": 4.9
+    },
+    {
+      "id": 1092,
+      "name": "Vintage Jacket 462",
+      "category": "Apparel",
+      "subcategory": "Jacket",
+      "price": 348.13,
+      "currency": "USD",
+      "stock": 42,
+      "rating": 4.7
+    },
+    {
+      "id": 1093,
+      "name": "Vintage Smartwatch 900",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 380.98,
+      "currency": "USD",
+      "stock": 135,
+      "rating": 4.3
+    },
+    {
+      "id": 1094,
+      "name": "Ergonomic Backpack 330",
+      "category": "Sports",
+      "subcategory": "Backpack",
+      "price": 784.83,
+      "currency": "USD",
+      "stock": 68,
+      "rating": 3.5
+    },
+    {
+      "id": 1095,
+      "name": "Luxury Sunglasses 583",
+      "category": "Apparel",
+      "subcategory": "Sunglasses",
+      "price": 444.79,
+      "currency": "USD",
+      "stock": 48,
+      "rating": 3.8
+    },
+    {
+      "id": 1096,
+      "name": "Organic Blender 940",
+      "category": "Home & Kitchen",
+      "subcategory": "Blender",
+      "price": 491.68,
+      "currency": "USD",
+      "stock": 43,
+      "rating": 4.7
+    },
+    {
+      "id": 1097,
+      "name": "Portable Toaster 765",
+      "category": "Home & Kitchen",
+      "subcategory": "Toaster",
+      "price": 333.05,
+      "currency": "USD",
+      "stock": 124,
+      "rating": 3.1
+    },
+    {
+      "id": 1098,
+      "name": "Solar-Powered Smartphone 977",
+      "category": "Electronics",
+      "subcategory": "Smartphone",
+      "price": 358.49,
+      "currency": "USD",
+      "stock": 20,
+      "rating": 4.5
+    },
+    {
+      "id": 1099,
+      "name": "Wireless Sneakers 476",
+      "category": "Apparel",
+      "subcategory": "Sneakers",
+      "price": 532.63,
+      "currency": "USD",
+      "stock": 49,
+      "rating": 4.1
+    },
+    {
+      "id": 1100,
+      "name": "Luxury Dumbbells 494",
+      "category": "Sports",
+      "subcategory": "Dumbbells",
+      "price": 619.36,
+      "currency": "USD",
+      "stock": 63,
+      "rating": 3.6
+    },
+    {
+      "id": 1101,
+      "name": "Luxury Textbook 891",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 536.26,
+      "currency": "USD",
+      "stock": 100,
+      "rating": 4.6
+    },
+    {
+      "id": 1102,
+      "name": "Stainless Steel Bicycle 297",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 287.03,
+      "currency": "USD",
+      "stock": 42,
+      "rating": 4.7
+    },
+    {
+      "id": 1103,
+      "name": "Waterproof Yoga Mat 746",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 350.95,
+      "currency": "USD",
+      "stock": 47,
+      "rating": 4.3
+    },
+    {
+      "id": 1104,
+      "name": "Heavy-Duty Bicycle 668",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 826.06,
+      "currency": "USD",
+      "stock": 136,
+      "rating": 3.5
+    },
+    {
+      "id": 1105,
+      "name": "Solar-Powered Toaster 872",
+      "category": "Home & Kitchen",
+      "subcategory": "Toaster",
+      "price": 108.27,
+      "currency": "USD",
+      "stock": 36,
+      "rating": 3.7
+    },
+    {
+      "id": 1106,
+      "name": "Waterproof Tent 819",
+      "category": "Sports",
+      "subcategory": "Tent",
+      "price": 813.47,
+      "currency": "USD",
+      "stock": 53,
+      "rating": 3.2
+    },
+    {
+      "id": 1107,
+      "name": "Wireless Knife Set 560",
+      "category": "Home & Kitchen",
+      "subcategory": "Knife Set",
+      "price": 469.99,
+      "currency": "USD",
+      "stock": 93,
+      "rating": 3.7
+    },
+    {
+      "id": 1108,
+      "name": "Luxury Art Book 110",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 555.61,
+      "currency": "USD",
+      "stock": 116,
+      "rating": 4.6
+    },
+    {
+      "id": 1109,
+      "name": "Waterproof Smartphone 199",
+      "category": "Electronics",
+      "subcategory": "Smartphone",
+      "price": 787.42,
+      "currency": "USD",
+      "stock": 53,
+      "rating": 4.5
+    },
+    {
+      "id": 1110,
+      "name": "Portable Guide 153",
+      "category": "Books",
+      "subcategory": "Guide",
+      "price": 323.24,
+      "currency": "USD",
+      "stock": 117,
+      "rating": 3.5
+    },
+    {
+      "id": 1111,
+      "name": "Wireless Desk Lamp 667",
+      "category": "Home & Kitchen",
+      "subcategory": "Desk Lamp",
+      "price": 776.15,
+      "currency": "USD",
+      "stock": 92,
+      "rating": 4.4
+    },
+    {
+      "id": 1112,
+      "name": "Luxury Speaker 173",
+      "category": "Electronics",
+      "subcategory": "Speaker",
+      "price": 224.53,
+      "currency": "USD",
+      "stock": 107,
+      "rating": 3.6
+    },
+    {
+      "id": 1113,
+      "name": "Vintage Yoga Mat 329",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 820.62,
+      "currency": "USD",
+      "stock": 24,
+      "rating": 3.8
+    },
+    {
+      "id": 1114,
+      "name": "Compact Toaster 380",
+      "category": "Home & Kitchen",
+      "subcategory": "Toaster",
+      "price": 710.36,
+      "currency": "USD",
+      "stock": 15,
+      "rating": 3.6
+    },
+    {
+      "id": 1115,
+      "name": "Smart Smartwatch 541",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 893.47,
+      "currency": "USD",
+      "stock": 131,
+      "rating": 4.8
+    },
+    {
+      "id": 1116,
+      "name": "Luxury Knife Set 957",
+      "category": "Home & Kitchen",
+      "subcategory": "Knife Set",
+      "price": 30.34,
+      "currency": "USD",
+      "stock": 141,
+      "rating": 4.7
+    },
+    {
+      "id": 1117,
+      "name": "Stainless Steel Biography 732",
+      "category": "Books",
+      "subcategory": "Biography",
+      "price": 723.84,
+      "currency": "USD",
+      "stock": 57,
+      "rating": 4.0
+    },
+    {
+      "id": 1118,
+      "name": "Portable Smartphone 624",
+      "category": "Electronics",
+      "subcategory": "Smartphone",
+      "price": 362.77,
+      "currency": "USD",
+      "stock": 71,
+      "rating": 3.3
+    },
+    {
+      "id": 1119,
+      "name": "Waterproof Vacuum 582",
+      "category": "Home & Kitchen",
+      "subcategory": "Vacuum",
+      "price": 686.12,
+      "currency": "USD",
+      "stock": 49,
+      "rating": 3.0
+    },
+    {
+      "id": 1120,
+      "name": "Solar-Powered Hat 799",
+      "category": "Apparel",
+      "subcategory": "Hat",
+      "price": 222.94,
+      "currency": "USD",
+      "stock": 125,
+      "rating": 3.2
+    },
+    {
+      "id": 1121,
+      "name": "Ergonomic Smartphone 350",
+      "category": "Electronics",
+      "subcategory": "Smartphone",
+      "price": 124.77,
+      "currency": "USD",
+      "stock": 150,
+      "rating": 3.7
+    },
+    {
+      "id": 1122,
+      "name": "Wireless Camera 329",
+      "category": "Electronics",
+      "subcategory": "Camera",
+      "price": 312.18,
+      "currency": "USD",
+      "stock": 63,
+      "rating": 4.8
+    },
+    {
+      "id": 1123,
+      "name": "Wireless Air Fryer 834",
+      "category": "Home & Kitchen",
+      "subcategory": "Air Fryer",
+      "price": 874.35,
+      "currency": "USD",
+      "stock": 97,
+      "rating": 3.3
+    },
+    {
+      "id": 1124,
+      "name": "Stainless Steel Desk Lamp 103",
+      "category": "Home & Kitchen",
+      "subcategory": "Desk Lamp",
+      "price": 154.05,
+      "currency": "USD",
+      "stock": 93,
+      "rating": 3.9
+    },
+    {
+      "id": 1125,
+      "name": "Organic Art Book 460",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 827.55,
+      "currency": "USD",
+      "stock": 37,
+      "rating": 3.7
+    },
+    {
+      "id": 1126,
+      "name": "Smart Smartwatch 806",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 316.13,
+      "currency": "USD",
+      "stock": 84,
+      "rating": 4.6
+    },
+    {
+      "id": 1127,
+      "name": "Ergonomic Coffee Maker 514",
+      "category": "Home & Kitchen",
+      "subcategory": "Coffee Maker",
+      "price": 228.07,
+      "currency": "USD",
+      "stock": 57,
+      "rating": 4.8
+    },
+    {
+      "id": 1128,
+      "name": "Stainless Steel Sunglasses 382",
+      "category": "Apparel",
+      "subcategory": "Sunglasses",
+      "price": 550.22,
+      "currency": "USD",
+      "stock": 109,
+      "rating": 4.8
+    },
+    {
+      "id": 1129,
+      "name": "Portable Dumbbells 195",
+      "category": "Sports",
+      "subcategory": "Dumbbells",
+      "price": 374.98,
+      "currency": "USD",
+      "stock": 42,
+      "rating": 4.5
+    },
+    {
+      "id": 1130,
+      "name": "Waterproof Dumbbells 201",
+      "category": "Sports",
+      "subcategory": "Dumbbells",
+      "price": 947.98,
+      "currency": "USD",
+      "stock": 69,
+      "rating": 3.3
+    },
+    {
+      "id": 1131,
+      "name": "Heavy-Duty Yoga Mat 178",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 633.75,
+      "currency": "USD",
+      "stock": 38,
+      "rating": 4.4
+    },
+    {
+      "id": 1132,
+      "name": "Stainless Steel Art Book 319",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 769.54,
+      "currency": "USD",
+      "stock": 105,
+      "rating": 4.5
+    },
+    {
+      "id": 1133,
+      "name": "Solar-Powered Yoga Mat 260",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 679.44,
+      "currency": "USD",
+      "stock": 122,
+      "rating": 4.3
+    },
+    {
+      "id": 1134,
+      "name": "Luxury Novel 399",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 621.31,
+      "currency": "USD",
+      "stock": 130,
+      "rating": 3.6
+    },
+    {
+      "id": 1135,
+      "name": "Heavy-Duty Sneakers 933",
+      "category": "Apparel",
+      "subcategory": "Sneakers",
+      "price": 135.98,
+      "currency": "USD",
+      "stock": 82,
+      "rating": 4.8
+    },
+    {
+      "id": 1136,
+      "name": "Organic Guide 615",
+      "category": "Books",
+      "subcategory": "Guide",
+      "price": 804.6,
+      "currency": "USD",
+      "stock": 82,
+      "rating": 3.0
+    },
+    {
+      "id": 1137,
+      "name": "Compact Sneakers 223",
+      "category": "Apparel",
+      "subcategory": "Sneakers",
+      "price": 882.75,
+      "currency": "USD",
+      "stock": 107,
+      "rating": 4.0
+    },
+    {
+      "id": 1138,
+      "name": "Portable Scarf 636",
+      "category": "Apparel",
+      "subcategory": "Scarf",
+      "price": 479.37,
+      "currency": "USD",
+      "stock": 106,
+      "rating": 4.5
+    },
+    {
+      "id": 1139,
+      "name": "Compact Jacket 521",
+      "category": "Apparel",
+      "subcategory": "Jacket",
+      "price": 436.37,
+      "currency": "USD",
+      "stock": 9,
+      "rating": 3.8
+    },
+    {
+      "id": 1140,
+      "name": "Compact Camera 717",
+      "category": "Electronics",
+      "subcategory": "Camera",
+      "price": 386.88,
+      "currency": "USD",
+      "stock": 75,
+      "rating": 3.7
+    },
+    {
+      "id": 1141,
+      "name": "Wireless T-Shirt 119",
+      "category": "Apparel",
+      "subcategory": "T-Shirt",
+      "price": 739.48,
+      "currency": "USD",
+      "stock": 6,
+      "rating": 3.7
+    },
+    {
+      "id": 1142,
+      "name": "Compact Yoga Mat 998",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 270.76,
+      "currency": "USD",
+      "stock": 69,
+      "rating": 4.7
+    },
+    {
+      "id": 1143,
+      "name": "Solar-Powered Laptop 536",
+      "category": "Electronics",
+      "subcategory": "Laptop",
+      "price": 298.55,
+      "currency": "USD",
+      "stock": 106,
+      "rating": 4.7
+    },
+    {
+      "id": 1144,
+      "name": "Ergonomic Art Book 670",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 395.65,
+      "currency": "USD",
+      "stock": 121,
+      "rating": 3.5
+    },
+    {
+      "id": 1145,
+      "name": "Organic Yoga Mat 250",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 470.13,
+      "currency": "USD",
+      "stock": 124,
+      "rating": 3.2
+    },
+    {
+      "id": 1146,
+      "name": "Waterproof Sunglasses 655",
+      "category": "Apparel",
+      "subcategory": "Sunglasses",
+      "price": 415.09,
+      "currency": "USD",
+      "stock": 119,
+      "rating": 3.0
+    },
+    {
+      "id": 1147,
+      "name": "Portable Desk Lamp 143",
+      "category": "Home & Kitchen",
+      "subcategory": "Desk Lamp",
+      "price": 935.75,
+      "currency": "USD",
+      "stock": 100,
+      "rating": 4.1
+    },
+    {
+      "id": 1148,
+      "name": "Waterproof Laptop 530",
+      "category": "Electronics",
+      "subcategory": "Laptop",
+      "price": 619.52,
+      "currency": "USD",
+      "stock": 130,
+      "rating": 3.4
+    },
+    {
+      "id": 1149,
+      "name": "Portable Smartwatch 852",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 494.89,
+      "currency": "USD",
+      "stock": 58,
+      "rating": 4.2
+    },
+    {
+      "id": 1150,
+      "name": "Stainless Steel Blender 565",
+      "category": "Home & Kitchen",
+      "subcategory": "Blender",
+      "price": 624.37,
+      "currency": "USD",
+      "stock": 23,
+      "rating": 4.7
+    },
+    {
+      "id": 1151,
+      "name": "Waterproof Knife Set 579",
+      "category": "Home & Kitchen",
+      "subcategory": "Knife Set",
+      "price": 25.87,
+      "currency": "USD",
+      "stock": 107,
+      "rating": 4.9
+    },
+    {
+      "id": 1152,
+      "name": "Waterproof Coffee Maker 535",
+      "category": "Home & Kitchen",
+      "subcategory": "Coffee Maker",
+      "price": 224.11,
+      "currency": "USD",
+      "stock": 55,
+      "rating": 4.8
+    },
+    {
+      "id": 1153,
+      "name": "Organic Jacket 383",
+      "category": "Apparel",
+      "subcategory": "Jacket",
+      "price": 267.97,
+      "currency": "USD",
+      "stock": 74,
+      "rating": 4.3
+    },
+    {
+      "id": 1154,
+      "name": "Wireless Biography 991",
+      "category": "Books",
+      "subcategory": "Biography",
+      "price": 524.1,
+      "currency": "USD",
+      "stock": 85,
+      "rating": 3.0
+    },
+    {
+      "id": 1155,
+      "name": "Compact Yoga Mat 973",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 311.22,
+      "currency": "USD",
+      "stock": 38,
+      "rating": 5.0
+    },
+    {
+      "id": 1156,
+      "name": "Ergonomic Yoga Mat 904",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 165.81,
+      "currency": "USD",
+      "stock": 68,
+      "rating": 4.2
+    },
+    {
+      "id": 1157,
+      "name": "Ergonomic Air Fryer 179",
+      "category": "Home & Kitchen",
+      "subcategory": "Air Fryer",
+      "price": 523.57,
+      "currency": "USD",
+      "stock": 96,
+      "rating": 3.1
+    },
+    {
+      "id": 1158,
+      "name": "Organic T-Shirt 857",
+      "category": "Apparel",
+      "subcategory": "T-Shirt",
+      "price": 747.87,
+      "currency": "USD",
+      "stock": 54,
+      "rating": 3.2
+    },
+    {
+      "id": 1159,
+      "name": "Organic Tent 216",
+      "category": "Sports",
+      "subcategory": "Tent",
+      "price": 290.94,
+      "currency": "USD",
+      "stock": 121,
+      "rating": 4.0
+    },
+    {
+      "id": 1160,
+      "name": "Organic Scarf 546",
+      "category": "Apparel",
+      "subcategory": "Scarf",
+      "price": 913.57,
+      "currency": "USD",
+      "stock": 100,
+      "rating": 3.6
+    },
+    {
+      "id": 1161,
+      "name": "Ergonomic Art Book 727",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 625.01,
+      "currency": "USD",
+      "stock": 22,
+      "rating": 3.5
+    },
+    {
+      "id": 1162,
+      "name": "Organic Running Shoes 197",
+      "category": "Sports",
+      "subcategory": "Running Shoes",
+      "price": 877.66,
+      "currency": "USD",
+      "stock": 30,
+      "rating": 4.5
+    },
+    {
+      "id": 1163,
+      "name": "Compact Art Book 783",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 167.01,
+      "currency": "USD",
+      "stock": 55,
+      "rating": 3.1
+    },
+    {
+      "id": 1164,
+      "name": "Ergonomic Headphones 786",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 832.1,
+      "currency": "USD",
+      "stock": 49,
+      "rating": 3.0
+    },
+    {
+      "id": 1165,
+      "name": "Compact Smartwatch 162",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 447.9,
+      "currency": "USD",
+      "stock": 4,
+      "rating": 5.0
+    },
+    {
+      "id": 1166,
+      "name": "Portable Smartphone 267",
+      "category": "Electronics",
+      "subcategory": "Smartphone",
+      "price": 711.22,
+      "currency": "USD",
+      "stock": 143,
+      "rating": 3.6
+    },
+    {
+      "id": 1167,
+      "name": "Heavy-Duty Novel 362",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 465.67,
+      "currency": "USD",
+      "stock": 117,
+      "rating": 3.2
+    },
+    {
+      "id": 1168,
+      "name": "Waterproof Cookbook 730",
+      "category": "Books",
+      "subcategory": "Cookbook",
+      "price": 642.93,
+      "currency": "USD",
+      "stock": 91,
+      "rating": 4.1
+    },
+    {
+      "id": 1169,
+      "name": "Portable Art Book 328",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 449.92,
+      "currency": "USD",
+      "stock": 78,
+      "rating": 4.0
+    },
+    {
+      "id": 1170,
+      "name": "Waterproof Laptop 906",
+      "category": "Electronics",
+      "subcategory": "Laptop",
+      "price": 542.24,
+      "currency": "USD",
+      "stock": 8,
+      "rating": 3.2
+    },
+    {
+      "id": 1171,
+      "name": "Compact Sneakers 880",
+      "category": "Apparel",
+      "subcategory": "Sneakers",
+      "price": 817.91,
+      "currency": "USD",
+      "stock": 60,
+      "rating": 4.4
+    },
+    {
+      "id": 1172,
+      "name": "Luxury Backpack 319",
+      "category": "Sports",
+      "subcategory": "Backpack",
+      "price": 675.32,
+      "currency": "USD",
+      "stock": 122,
+      "rating": 4.9
+    },
+    {
+      "id": 1173,
+      "name": "Waterproof Dumbbells 566",
+      "category": "Sports",
+      "subcategory": "Dumbbells",
+      "price": 573.67,
+      "currency": "USD",
+      "stock": 15,
+      "rating": 3.6
+    },
+    {
+      "id": 1174,
+      "name": "Smart Textbook 367",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 861.65,
+      "currency": "USD",
+      "stock": 36,
+      "rating": 3.8
+    },
+    {
+      "id": 1175,
+      "name": "Organic Scarf 908",
+      "category": "Apparel",
+      "subcategory": "Scarf",
+      "price": 857.7,
+      "currency": "USD",
+      "stock": 135,
+      "rating": 3.7
+    },
+    {
+      "id": 1176,
+      "name": "Heavy-Duty Cookbook 361",
+      "category": "Books",
+      "subcategory": "Cookbook",
+      "price": 517.09,
+      "currency": "USD",
+      "stock": 60,
+      "rating": 3.3
+    },
+    {
+      "id": 1177,
+      "name": "Wireless Art Book 622",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 350.3,
+      "currency": "USD",
+      "stock": 15,
+      "rating": 3.4
+    },
+    {
+      "id": 1178,
+      "name": "Luxury Backpack 753",
+      "category": "Sports",
+      "subcategory": "Backpack",
+      "price": 807.79,
+      "currency": "USD",
+      "stock": 7,
+      "rating": 4.7
+    },
+    {
+      "id": 1179,
+      "name": "Smart Biography 746",
+      "category": "Books",
+      "subcategory": "Biography",
+      "price": 284.09,
+      "currency": "USD",
+      "stock": 33,
+      "rating": 4.0
+    },
+    {
+      "id": 1180,
+      "name": "Smart Blender 472",
+      "category": "Home & Kitchen",
+      "subcategory": "Blender",
+      "price": 589.32,
+      "currency": "USD",
+      "stock": 59,
+      "rating": 4.8
+    },
+    {
+      "id": 1181,
+      "name": "Portable Smartphone 221",
+      "category": "Electronics",
+      "subcategory": "Smartphone",
+      "price": 591.06,
+      "currency": "USD",
+      "stock": 8,
+      "rating": 3.3
+    },
+    {
+      "id": 1182,
+      "name": "Luxury Art Book 416",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 931.01,
+      "currency": "USD",
+      "stock": 64,
+      "rating": 3.9
+    },
+    {
+      "id": 1183,
+      "name": "Wireless Novel 733",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 535.86,
+      "currency": "USD",
+      "stock": 138,
+      "rating": 4.0
+    },
+    {
+      "id": 1184,
+      "name": "Luxury Smartphone 453",
+      "category": "Electronics",
+      "subcategory": "Smartphone",
+      "price": 208.22,
+      "currency": "USD",
+      "stock": 116,
+      "rating": 4.3
+    },
+    {
+      "id": 1185,
+      "name": "Luxury Yoga Mat 622",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 12.69,
+      "currency": "USD",
+      "stock": 69,
+      "rating": 4.6
+    },
+    {
+      "id": 1186,
+      "name": "Compact Desk Lamp 260",
+      "category": "Home & Kitchen",
+      "subcategory": "Desk Lamp",
+      "price": 850.28,
+      "currency": "USD",
+      "stock": 122,
+      "rating": 5.0
+    },
+    {
+      "id": 1187,
+      "name": "Wireless Biography 544",
+      "category": "Books",
+      "subcategory": "Biography",
+      "price": 835.84,
+      "currency": "USD",
+      "stock": 19,
+      "rating": 3.0
+    },
+    {
+      "id": 1188,
+      "name": "Vintage Cookbook 816",
+      "category": "Books",
+      "subcategory": "Cookbook",
+      "price": 928.86,
+      "currency": "USD",
+      "stock": 12,
+      "rating": 4.6
+    },
+    {
+      "id": 1189,
+      "name": "Portable Novel 473",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 995.45,
+      "currency": "USD",
+      "stock": 124,
+      "rating": 3.2
+    },
+    {
+      "id": 1190,
+      "name": "Organic Smartwatch 138",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 370.96,
+      "currency": "USD",
+      "stock": 28,
+      "rating": 4.8
+    },
+    {
+      "id": 1191,
+      "name": "Compact Monitor 854",
+      "category": "Electronics",
+      "subcategory": "Monitor",
+      "price": 964.91,
+      "currency": "USD",
+      "stock": 1,
+      "rating": 4.1
+    },
+    {
+      "id": 1192,
+      "name": "Stainless Steel Tent 151",
+      "category": "Sports",
+      "subcategory": "Tent",
+      "price": 158.73,
+      "currency": "USD",
+      "stock": 73,
+      "rating": 3.1
+    },
+    {
+      "id": 1193,
+      "name": "Luxury Camera 777",
+      "category": "Electronics",
+      "subcategory": "Camera",
+      "price": 218.4,
+      "currency": "USD",
+      "stock": 76,
+      "rating": 3.5
+    },
+    {
+      "id": 1194,
+      "name": "Portable Jeans 648",
+      "category": "Apparel",
+      "subcategory": "Jeans",
+      "price": 926.18,
+      "currency": "USD",
+      "stock": 77,
+      "rating": 4.6
+    },
+    {
+      "id": 1195,
+      "name": "Heavy-Duty Cookbook 348",
+      "category": "Books",
+      "subcategory": "Cookbook",
+      "price": 704.04,
+      "currency": "USD",
+      "stock": 57,
+      "rating": 3.9
+    },
+    {
+      "id": 1196,
+      "name": "Waterproof Desk Lamp 421",
+      "category": "Home & Kitchen",
+      "subcategory": "Desk Lamp",
+      "price": 622.58,
+      "currency": "USD",
+      "stock": 9,
+      "rating": 4.8
+    },
+    {
+      "id": 1197,
+      "name": "Ergonomic Jacket 298",
+      "category": "Apparel",
+      "subcategory": "Jacket",
+      "price": 653.19,
+      "currency": "USD",
+      "stock": 121,
+      "rating": 4.7
+    },
+    {
+      "id": 1198,
+      "name": "Vintage Novel 598",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 849.7,
+      "currency": "USD",
+      "stock": 139,
+      "rating": 4.4
+    },
+    {
+      "id": 1199,
+      "name": "Compact Smartwatch 916",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 888.28,
+      "currency": "USD",
+      "stock": 42,
+      "rating": 3.2
+    },
+    {
+      "id": 1200,
+      "name": "Heavy-Duty Speaker 337",
+      "category": "Electronics",
+      "subcategory": "Speaker",
+      "price": 234.78,
+      "currency": "USD",
+      "stock": 97,
+      "rating": 3.6
+    },
+    {
+      "id": 1201,
+      "name": "Waterproof Monitor 538",
+      "category": "Electronics",
+      "subcategory": "Monitor",
+      "price": 137.38,
+      "currency": "USD",
+      "stock": 97,
+      "rating": 3.8
+    },
+    {
+      "id": 1202,
+      "name": "Solar-Powered Cookbook 752",
+      "category": "Books",
+      "subcategory": "Cookbook",
+      "price": 910.11,
+      "currency": "USD",
+      "stock": 108,
+      "rating": 3.8
+    },
+    {
+      "id": 1203,
+      "name": "Smart Sneakers 981",
+      "category": "Apparel",
+      "subcategory": "Sneakers",
+      "price": 217.01,
+      "currency": "USD",
+      "stock": 150,
+      "rating": 4.9
+    },
+    {
+      "id": 1204,
+      "name": "Vintage Sunglasses 992",
+      "category": "Apparel",
+      "subcategory": "Sunglasses",
+      "price": 374.02,
+      "currency": "USD",
+      "stock": 47,
+      "rating": 3.8
+    },
+    {
+      "id": 1205,
+      "name": "Organic Backpack 509",
+      "category": "Sports",
+      "subcategory": "Backpack",
+      "price": 771.37,
+      "currency": "USD",
+      "stock": 12,
+      "rating": 3.2
+    },
+    {
+      "id": 1206,
+      "name": "Smart Toaster 106",
+      "category": "Home & Kitchen",
+      "subcategory": "Toaster",
+      "price": 888.58,
+      "currency": "USD",
+      "stock": 118,
+      "rating": 4.1
+    },
+    {
+      "id": 1207,
+      "name": "Heavy-Duty Knife Set 386",
+      "category": "Home & Kitchen",
+      "subcategory": "Knife Set",
+      "price": 534.74,
+      "currency": "USD",
+      "stock": 119,
+      "rating": 3.3
+    },
+    {
+      "id": 1208,
+      "name": "Stainless Steel Knife Set 648",
+      "category": "Home & Kitchen",
+      "subcategory": "Knife Set",
+      "price": 465.85,
+      "currency": "USD",
+      "stock": 86,
+      "rating": 3.4
+    },
+    {
+      "id": 1209,
+      "name": "Waterproof Blender 146",
+      "category": "Home & Kitchen",
+      "subcategory": "Blender",
+      "price": 891.02,
+      "currency": "USD",
+      "stock": 70,
+      "rating": 3.6
+    },
+    {
+      "id": 1210,
+      "name": "Stainless Steel Running Shoes 744",
+      "category": "Sports",
+      "subcategory": "Running Shoes",
+      "price": 197.17,
+      "currency": "USD",
+      "stock": 11,
+      "rating": 3.3
+    },
+    {
+      "id": 1211,
+      "name": "Portable Knife Set 948",
+      "category": "Home & Kitchen",
+      "subcategory": "Knife Set",
+      "price": 960.75,
+      "currency": "USD",
+      "stock": 116,
+      "rating": 3.1
+    },
+    {
+      "id": 1212,
+      "name": "Heavy-Duty Yoga Mat 349",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 627.04,
+      "currency": "USD",
+      "stock": 30,
+      "rating": 4.2
+    },
+    {
+      "id": 1213,
+      "name": "Ergonomic Laptop 504",
+      "category": "Electronics",
+      "subcategory": "Laptop",
+      "price": 752.14,
+      "currency": "USD",
+      "stock": 19,
+      "rating": 3.1
+    },
+    {
+      "id": 1214,
+      "name": "Organic Sneakers 207",
+      "category": "Apparel",
+      "subcategory": "Sneakers",
+      "price": 270.08,
+      "currency": "USD",
+      "stock": 144,
+      "rating": 4.2
+    },
+    {
+      "id": 1215,
+      "name": "Heavy-Duty Textbook 925",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 811.2,
+      "currency": "USD",
+      "stock": 73,
+      "rating": 3.1
+    },
+    {
+      "id": 1216,
+      "name": "Heavy-Duty T-Shirt 161",
+      "category": "Apparel",
+      "subcategory": "T-Shirt",
+      "price": 613.65,
+      "currency": "USD",
+      "stock": 147,
+      "rating": 3.8
+    },
+    {
+      "id": 1217,
+      "name": "Smart Smartwatch 244",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 115.85,
+      "currency": "USD",
+      "stock": 110,
+      "rating": 3.2
+    },
+    {
+      "id": 1218,
+      "name": "Vintage Headphones 606",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 241.52,
+      "currency": "USD",
+      "stock": 108,
+      "rating": 4.2
+    },
+    {
+      "id": 1219,
+      "name": "Portable Vacuum 707",
+      "category": "Home & Kitchen",
+      "subcategory": "Vacuum",
+      "price": 73.7,
+      "currency": "USD",
+      "stock": 1,
+      "rating": 4.2
+    },
+    {
+      "id": 1220,
+      "name": "Solar-Powered Backpack 611",
+      "category": "Sports",
+      "subcategory": "Backpack",
+      "price": 597.02,
+      "currency": "USD",
+      "stock": 62,
+      "rating": 3.6
+    },
+    {
+      "id": 1221,
+      "name": "Stainless Steel Blender 461",
+      "category": "Home & Kitchen",
+      "subcategory": "Blender",
+      "price": 649.35,
+      "currency": "USD",
+      "stock": 134,
+      "rating": 3.9
+    },
+    {
+      "id": 1222,
+      "name": "Ergonomic Cookbook 746",
+      "category": "Books",
+      "subcategory": "Cookbook",
+      "price": 869.75,
+      "currency": "USD",
+      "stock": 0,
+      "rating": 4.5
+    },
+    {
+      "id": 1223,
+      "name": "Heavy-Duty Art Book 619",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 766.86,
+      "currency": "USD",
+      "stock": 10,
+      "rating": 3.2
+    },
+    {
+      "id": 1224,
+      "name": "Wireless Hat 831",
+      "category": "Apparel",
+      "subcategory": "Hat",
+      "price": 106.62,
+      "currency": "USD",
+      "stock": 20,
+      "rating": 4.9
+    },
+    {
+      "id": 1225,
+      "name": "Organic Smartwatch 891",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 925.15,
+      "currency": "USD",
+      "stock": 2,
+      "rating": 3.7
+    },
+    {
+      "id": 1226,
+      "name": "Waterproof Cookbook 214",
+      "category": "Books",
+      "subcategory": "Cookbook",
+      "price": 163.56,
+      "currency": "USD",
+      "stock": 3,
+      "rating": 5.0
+    },
+    {
+      "id": 1227,
+      "name": "Waterproof Dumbbells 843",
+      "category": "Sports",
+      "subcategory": "Dumbbells",
+      "price": 472.12,
+      "currency": "USD",
+      "stock": 136,
+      "rating": 4.8
+    },
+    {
+      "id": 1228,
+      "name": "Portable Bicycle 163",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 101.61,
+      "currency": "USD",
+      "stock": 93,
+      "rating": 4.8
+    },
+    {
+      "id": 1229,
+      "name": "Heavy-Duty Smartphone 859",
+      "category": "Electronics",
+      "subcategory": "Smartphone",
+      "price": 479.69,
+      "currency": "USD",
+      "stock": 139,
+      "rating": 4.2
+    },
+    {
+      "id": 1230,
+      "name": "Compact Blender 766",
+      "category": "Home & Kitchen",
+      "subcategory": "Blender",
+      "price": 372.26,
+      "currency": "USD",
+      "stock": 98,
+      "rating": 3.2
+    },
+    {
+      "id": 1231,
+      "name": "Portable Desk Lamp 115",
+      "category": "Home & Kitchen",
+      "subcategory": "Desk Lamp",
+      "price": 745.98,
+      "currency": "USD",
+      "stock": 116,
+      "rating": 3.4
+    },
+    {
+      "id": 1232,
+      "name": "Waterproof Speaker 848",
+      "category": "Electronics",
+      "subcategory": "Speaker",
+      "price": 578.0,
+      "currency": "USD",
+      "stock": 69,
+      "rating": 4.1
+    },
+    {
+      "id": 1233,
+      "name": "Stainless Steel Backpack 259",
+      "category": "Sports",
+      "subcategory": "Backpack",
+      "price": 188.29,
+      "currency": "USD",
+      "stock": 64,
+      "rating": 3.3
+    },
+    {
+      "id": 1234,
+      "name": "Smart Smartwatch 434",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 136.02,
+      "currency": "USD",
+      "stock": 122,
+      "rating": 3.9
+    },
+    {
+      "id": 1235,
+      "name": "Portable Art Book 925",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 93.67,
+      "currency": "USD",
+      "stock": 23,
+      "rating": 4.1
+    },
+    {
+      "id": 1236,
+      "name": "Wireless Speaker 887",
+      "category": "Electronics",
+      "subcategory": "Speaker",
+      "price": 522.45,
+      "currency": "USD",
+      "stock": 129,
+      "rating": 3.1
+    },
+    {
+      "id": 1237,
+      "name": "Smart Jeans 488",
+      "category": "Apparel",
+      "subcategory": "Jeans",
+      "price": 509.6,
+      "currency": "USD",
+      "stock": 30,
+      "rating": 3.6
+    },
+    {
+      "id": 1238,
+      "name": "Ergonomic Art Book 665",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 85.03,
+      "currency": "USD",
+      "stock": 89,
+      "rating": 4.0
+    },
+    {
+      "id": 1239,
+      "name": "Waterproof Sneakers 995",
+      "category": "Apparel",
+      "subcategory": "Sneakers",
+      "price": 232.16,
+      "currency": "USD",
+      "stock": 16,
+      "rating": 3.6
+    },
+    {
+      "id": 1240,
+      "name": "Waterproof Novel 588",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 186.15,
+      "currency": "USD",
+      "stock": 126,
+      "rating": 5.0
+    },
+    {
+      "id": 1241,
+      "name": "Heavy-Duty Textbook 825",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 400.78,
+      "currency": "USD",
+      "stock": 32,
+      "rating": 4.3
+    },
+    {
+      "id": 1242,
+      "name": "Waterproof Smartphone 368",
+      "category": "Electronics",
+      "subcategory": "Smartphone",
+      "price": 836.93,
+      "currency": "USD",
+      "stock": 59,
+      "rating": 3.2
+    },
+    {
+      "id": 1243,
+      "name": "Wireless Cookbook 127",
+      "category": "Books",
+      "subcategory": "Cookbook",
+      "price": 810.8,
+      "currency": "USD",
+      "stock": 19,
+      "rating": 3.3
+    },
+    {
+      "id": 1244,
+      "name": "Compact Yoga Mat 760",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 539.09,
+      "currency": "USD",
+      "stock": 12,
+      "rating": 4.4
+    },
+    {
+      "id": 1245,
+      "name": "Smart Scarf 573",
+      "category": "Apparel",
+      "subcategory": "Scarf",
+      "price": 940.38,
+      "currency": "USD",
+      "stock": 9,
+      "rating": 3.3
+    },
+    {
+      "id": 1246,
+      "name": "Stainless Steel Headphones 956",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 113.76,
+      "currency": "USD",
+      "stock": 112,
+      "rating": 3.5
+    },
+    {
+      "id": 1247,
+      "name": "Heavy-Duty Running Shoes 435",
+      "category": "Sports",
+      "subcategory": "Running Shoes",
+      "price": 595.86,
+      "currency": "USD",
+      "stock": 130,
+      "rating": 3.0
+    },
+    {
+      "id": 1248,
+      "name": "Solar-Powered Novel 901",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 527.56,
+      "currency": "USD",
+      "stock": 129,
+      "rating": 4.0
+    },
+    {
+      "id": 1249,
+      "name": "Luxury Novel 593",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 991.23,
+      "currency": "USD",
+      "stock": 44,
+      "rating": 4.4
+    },
+    {
+      "id": 1250,
+      "name": "Portable Bicycle 313",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 867.92,
+      "currency": "USD",
+      "stock": 44,
+      "rating": 4.4
+    },
+    {
+      "id": 1251,
+      "name": "Heavy-Duty Headphones 686",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 30.63,
+      "currency": "USD",
+      "stock": 1,
+      "rating": 3.4
+    },
+    {
+      "id": 1252,
+      "name": "Wireless Smartwatch 250",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 623.55,
+      "currency": "USD",
+      "stock": 102,
+      "rating": 3.0
+    },
+    {
+      "id": 1253,
+      "name": "Portable Yoga Mat 649",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 709.98,
+      "currency": "USD",
+      "stock": 15,
+      "rating": 4.2
+    },
+    {
+      "id": 1254,
+      "name": "Solar-Powered Textbook 610",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 504.68,
+      "currency": "USD",
+      "stock": 8,
+      "rating": 4.5
+    },
+    {
+      "id": 1255,
+      "name": "Smart Blender 724",
+      "category": "Home & Kitchen",
+      "subcategory": "Blender",
+      "price": 119.53,
+      "currency": "USD",
+      "stock": 10,
+      "rating": 4.7
+    },
+    {
+      "id": 1256,
+      "name": "Organic Sunglasses 257",
+      "category": "Apparel",
+      "subcategory": "Sunglasses",
+      "price": 571.39,
+      "currency": "USD",
+      "stock": 89,
+      "rating": 4.9
+    },
+    {
+      "id": 1257,
+      "name": "Portable Smartwatch 786",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 980.43,
+      "currency": "USD",
+      "stock": 128,
+      "rating": 3.9
+    },
+    {
+      "id": 1258,
+      "name": "Smart Jeans 497",
+      "category": "Apparel",
+      "subcategory": "Jeans",
+      "price": 411.64,
+      "currency": "USD",
+      "stock": 100,
+      "rating": 3.8
+    },
+    {
+      "id": 1259,
+      "name": "Heavy-Duty Smartphone 111",
+      "category": "Electronics",
+      "subcategory": "Smartphone",
+      "price": 39.0,
+      "currency": "USD",
+      "stock": 118,
+      "rating": 3.6
+    },
+    {
+      "id": 1260,
+      "name": "Vintage Guide 234",
+      "category": "Books",
+      "subcategory": "Guide",
+      "price": 657.71,
+      "currency": "USD",
+      "stock": 36,
+      "rating": 5.0
+    },
+    {
+      "id": 1261,
+      "name": "Solar-Powered Monitor 795",
+      "category": "Electronics",
+      "subcategory": "Monitor",
+      "price": 74.29,
+      "currency": "USD",
+      "stock": 22,
+      "rating": 4.4
+    },
+    {
+      "id": 1262,
+      "name": "Luxury Textbook 109",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 494.43,
+      "currency": "USD",
+      "stock": 46,
+      "rating": 3.1
+    },
+    {
+      "id": 1263,
+      "name": "Compact Desk Lamp 237",
+      "category": "Home & Kitchen",
+      "subcategory": "Desk Lamp",
+      "price": 738.03,
+      "currency": "USD",
+      "stock": 52,
+      "rating": 3.9
+    },
+    {
+      "id": 1264,
+      "name": "Vintage Cookbook 712",
+      "category": "Books",
+      "subcategory": "Cookbook",
+      "price": 70.2,
+      "currency": "USD",
+      "stock": 83,
+      "rating": 4.9
+    },
+    {
+      "id": 1265,
+      "name": "Smart Hat 957",
+      "category": "Apparel",
+      "subcategory": "Hat",
+      "price": 349.67,
+      "currency": "USD",
+      "stock": 136,
+      "rating": 3.3
+    },
+    {
+      "id": 1266,
+      "name": "Wireless Running Shoes 513",
+      "category": "Sports",
+      "subcategory": "Running Shoes",
+      "price": 257.38,
+      "currency": "USD",
+      "stock": 55,
+      "rating": 3.5
+    },
+    {
+      "id": 1267,
+      "name": "Portable Scarf 566",
+      "category": "Apparel",
+      "subcategory": "Scarf",
+      "price": 288.29,
+      "currency": "USD",
+      "stock": 48,
+      "rating": 3.7
+    },
+    {
+      "id": 1268,
+      "name": "Compact Coffee Maker 669",
+      "category": "Home & Kitchen",
+      "subcategory": "Coffee Maker",
+      "price": 406.84,
+      "currency": "USD",
+      "stock": 36,
+      "rating": 4.4
+    },
+    {
+      "id": 1269,
+      "name": "Portable Scarf 934",
+      "category": "Apparel",
+      "subcategory": "Scarf",
+      "price": 298.65,
+      "currency": "USD",
+      "stock": 0,
+      "rating": 4.3
+    },
+    {
+      "id": 1270,
+      "name": "Heavy-Duty Tent 545",
+      "category": "Sports",
+      "subcategory": "Tent",
+      "price": 632.19,
+      "currency": "USD",
+      "stock": 3,
+      "rating": 3.1
+    },
+    {
+      "id": 1271,
+      "name": "Compact Camera 745",
+      "category": "Electronics",
+      "subcategory": "Camera",
+      "price": 730.93,
+      "currency": "USD",
+      "stock": 38,
+      "rating": 3.2
+    },
+    {
+      "id": 1272,
+      "name": "Waterproof Textbook 410",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 634.36,
+      "currency": "USD",
+      "stock": 135,
+      "rating": 4.5
+    },
+    {
+      "id": 1273,
+      "name": "Compact Knife Set 141",
+      "category": "Home & Kitchen",
+      "subcategory": "Knife Set",
+      "price": 186.65,
+      "currency": "USD",
+      "stock": 25,
+      "rating": 3.4
+    },
+    {
+      "id": 1274,
+      "name": "Compact Bicycle 231",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 880.02,
+      "currency": "USD",
+      "stock": 92,
+      "rating": 3.4
+    },
+    {
+      "id": 1275,
+      "name": "Portable Tent 789",
+      "category": "Sports",
+      "subcategory": "Tent",
+      "price": 224.41,
+      "currency": "USD",
+      "stock": 149,
+      "rating": 5.0
+    },
+    {
+      "id": 1276,
+      "name": "Wireless Sneakers 206",
+      "category": "Apparel",
+      "subcategory": "Sneakers",
+      "price": 512.68,
+      "currency": "USD",
+      "stock": 114,
+      "rating": 4.6
+    },
+    {
+      "id": 1277,
+      "name": "Waterproof Headphones 232",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 188.56,
+      "currency": "USD",
+      "stock": 91,
+      "rating": 3.2
+    },
+    {
+      "id": 1278,
+      "name": "Heavy-Duty Speaker 164",
+      "category": "Electronics",
+      "subcategory": "Speaker",
+      "price": 496.03,
+      "currency": "USD",
+      "stock": 67,
+      "rating": 4.1
+    },
+    {
+      "id": 1279,
+      "name": "Compact Novel 500",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 74.93,
+      "currency": "USD",
+      "stock": 68,
+      "rating": 3.4
+    },
+    {
+      "id": 1280,
+      "name": "Waterproof Smartwatch 941",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 218.78,
+      "currency": "USD",
+      "stock": 126,
+      "rating": 3.9
+    },
+    {
+      "id": 1281,
+      "name": "Heavy-Duty Cookbook 938",
+      "category": "Books",
+      "subcategory": "Cookbook",
+      "price": 38.7,
+      "currency": "USD",
+      "stock": 78,
+      "rating": 3.8
+    },
+    {
+      "id": 1282,
+      "name": "Stainless Steel Textbook 633",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 396.82,
+      "currency": "USD",
+      "stock": 87,
+      "rating": 3.1
+    },
+    {
+      "id": 1283,
+      "name": "Solar-Powered Sneakers 425",
+      "category": "Apparel",
+      "subcategory": "Sneakers",
+      "price": 433.84,
+      "currency": "USD",
+      "stock": 54,
+      "rating": 4.9
+    },
+    {
+      "id": 1284,
+      "name": "Wireless Bicycle 112",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 220.17,
+      "currency": "USD",
+      "stock": 5,
+      "rating": 3.2
+    },
+    {
+      "id": 1285,
+      "name": "Ergonomic Monitor 168",
+      "category": "Electronics",
+      "subcategory": "Monitor",
+      "price": 79.72,
+      "currency": "USD",
+      "stock": 53,
+      "rating": 3.8
+    },
+    {
+      "id": 1286,
+      "name": "Stainless Steel Textbook 345",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 661.91,
+      "currency": "USD",
+      "stock": 150,
+      "rating": 4.0
+    },
+    {
+      "id": 1287,
+      "name": "Wireless Bicycle 679",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 824.44,
+      "currency": "USD",
+      "stock": 88,
+      "rating": 3.3
+    },
+    {
+      "id": 1288,
+      "name": "Waterproof Knife Set 651",
+      "category": "Home & Kitchen",
+      "subcategory": "Knife Set",
+      "price": 353.0,
+      "currency": "USD",
+      "stock": 119,
+      "rating": 4.9
+    },
+    {
+      "id": 1289,
+      "name": "Luxury Blender 507",
+      "category": "Home & Kitchen",
+      "subcategory": "Blender",
+      "price": 819.24,
+      "currency": "USD",
+      "stock": 26,
+      "rating": 4.0
+    },
+    {
+      "id": 1290,
+      "name": "Portable Knife Set 876",
+      "category": "Home & Kitchen",
+      "subcategory": "Knife Set",
+      "price": 137.6,
+      "currency": "USD",
+      "stock": 129,
+      "rating": 4.9
+    },
+    {
+      "id": 1291,
+      "name": "Vintage Guide 425",
+      "category": "Books",
+      "subcategory": "Guide",
+      "price": 469.97,
+      "currency": "USD",
+      "stock": 131,
+      "rating": 4.2
+    },
+    {
+      "id": 1292,
+      "name": "Heavy-Duty Running Shoes 540",
+      "category": "Sports",
+      "subcategory": "Running Shoes",
+      "price": 414.88,
+      "currency": "USD",
+      "stock": 25,
+      "rating": 4.4
+    },
+    {
+      "id": 1293,
+      "name": "Waterproof Dumbbells 511",
+      "category": "Sports",
+      "subcategory": "Dumbbells",
+      "price": 794.95,
+      "currency": "USD",
+      "stock": 61,
+      "rating": 4.5
+    },
+    {
+      "id": 1294,
+      "name": "Vintage Vacuum 330",
+      "category": "Home & Kitchen",
+      "subcategory": "Vacuum",
+      "price": 678.51,
+      "currency": "USD",
+      "stock": 1,
+      "rating": 3.8
+    },
+    {
+      "id": 1295,
+      "name": "Ergonomic Scarf 319",
+      "category": "Apparel",
+      "subcategory": "Scarf",
+      "price": 562.44,
+      "currency": "USD",
+      "stock": 72,
+      "rating": 4.3
+    },
+    {
+      "id": 1296,
+      "name": "Solar-Powered Air Fryer 131",
+      "category": "Home & Kitchen",
+      "subcategory": "Air Fryer",
+      "price": 183.22,
+      "currency": "USD",
+      "stock": 131,
+      "rating": 4.8
+    },
+    {
+      "id": 1297,
+      "name": "Compact Running Shoes 603",
+      "category": "Sports",
+      "subcategory": "Running Shoes",
+      "price": 90.76,
+      "currency": "USD",
+      "stock": 105,
+      "rating": 4.0
+    },
+    {
+      "id": 1298,
+      "name": "Waterproof Novel 222",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 606.57,
+      "currency": "USD",
+      "stock": 88,
+      "rating": 3.8
+    },
+    {
+      "id": 1299,
+      "name": "Vintage Camera 504",
+      "category": "Electronics",
+      "subcategory": "Camera",
+      "price": 628.83,
+      "currency": "USD",
+      "stock": 55,
+      "rating": 4.9
+    },
+    {
+      "id": 1300,
+      "name": "Stainless Steel Dumbbells 148",
+      "category": "Sports",
+      "subcategory": "Dumbbells",
+      "price": 371.35,
+      "currency": "USD",
+      "stock": 132,
+      "rating": 3.8
+    },
+    {
+      "id": 1301,
+      "name": "Portable Laptop 230",
+      "category": "Electronics",
+      "subcategory": "Laptop",
+      "price": 853.19,
+      "currency": "USD",
+      "stock": 89,
+      "rating": 4.7
+    },
+    {
+      "id": 1302,
+      "name": "Luxury Bicycle 372",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 67.43,
+      "currency": "USD",
+      "stock": 133,
+      "rating": 4.9
+    },
+    {
+      "id": 1303,
+      "name": "Solar-Powered Scarf 543",
+      "category": "Apparel",
+      "subcategory": "Scarf",
+      "price": 499.53,
+      "currency": "USD",
+      "stock": 120,
+      "rating": 3.1
+    },
+    {
+      "id": 1304,
+      "name": "Solar-Powered Air Fryer 752",
+      "category": "Home & Kitchen",
+      "subcategory": "Air Fryer",
+      "price": 48.73,
+      "currency": "USD",
+      "stock": 67,
+      "rating": 3.1
+    },
+    {
+      "id": 1305,
+      "name": "Waterproof Tent 518",
+      "category": "Sports",
+      "subcategory": "Tent",
+      "price": 806.71,
+      "currency": "USD",
+      "stock": 119,
+      "rating": 4.9
+    },
+    {
+      "id": 1306,
+      "name": "Wireless Smartwatch 557",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 177.62,
+      "currency": "USD",
+      "stock": 48,
+      "rating": 4.3
+    },
+    {
+      "id": 1307,
+      "name": "Waterproof Hat 247",
+      "category": "Apparel",
+      "subcategory": "Hat",
+      "price": 64.74,
+      "currency": "USD",
+      "stock": 96,
+      "rating": 4.3
+    },
+    {
+      "id": 1308,
+      "name": "Ergonomic Desk Lamp 930",
+      "category": "Home & Kitchen",
+      "subcategory": "Desk Lamp",
+      "price": 457.13,
+      "currency": "USD",
+      "stock": 69,
+      "rating": 3.6
+    },
+    {
+      "id": 1309,
+      "name": "Ergonomic Art Book 377",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 447.9,
+      "currency": "USD",
+      "stock": 39,
+      "rating": 3.0
+    },
+    {
+      "id": 1310,
+      "name": "Vintage Biography 941",
+      "category": "Books",
+      "subcategory": "Biography",
+      "price": 525.05,
+      "currency": "USD",
+      "stock": 150,
+      "rating": 3.1
+    },
+    {
+      "id": 1311,
+      "name": "Organic Monitor 561",
+      "category": "Electronics",
+      "subcategory": "Monitor",
+      "price": 959.7,
+      "currency": "USD",
+      "stock": 77,
+      "rating": 5.0
+    },
+    {
+      "id": 1312,
+      "name": "Organic Bicycle 241",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 912.03,
+      "currency": "USD",
+      "stock": 26,
+      "rating": 4.0
+    },
+    {
+      "id": 1313,
+      "name": "Waterproof Sneakers 132",
+      "category": "Apparel",
+      "subcategory": "Sneakers",
+      "price": 561.56,
+      "currency": "USD",
+      "stock": 16,
+      "rating": 3.8
+    },
+    {
+      "id": 1314,
+      "name": "Ergonomic Jeans 372",
+      "category": "Apparel",
+      "subcategory": "Jeans",
+      "price": 637.21,
+      "currency": "USD",
+      "stock": 71,
+      "rating": 4.5
+    },
+    {
+      "id": 1315,
+      "name": "Ergonomic Desk Lamp 249",
+      "category": "Home & Kitchen",
+      "subcategory": "Desk Lamp",
+      "price": 507.66,
+      "currency": "USD",
+      "stock": 89,
+      "rating": 4.9
+    },
+    {
+      "id": 1316,
+      "name": "Organic Jacket 152",
+      "category": "Apparel",
+      "subcategory": "Jacket",
+      "price": 82.65,
+      "currency": "USD",
+      "stock": 144,
+      "rating": 4.7
+    },
+    {
+      "id": 1317,
+      "name": "Vintage Yoga Mat 158",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 602.62,
+      "currency": "USD",
+      "stock": 69,
+      "rating": 3.8
+    },
+    {
+      "id": 1318,
+      "name": "Solar-Powered Toaster 499",
+      "category": "Home & Kitchen",
+      "subcategory": "Toaster",
+      "price": 921.84,
+      "currency": "USD",
+      "stock": 0,
+      "rating": 4.6
+    },
+    {
+      "id": 1319,
+      "name": "Portable Hat 504",
+      "category": "Apparel",
+      "subcategory": "Hat",
+      "price": 988.71,
+      "currency": "USD",
+      "stock": 130,
+      "rating": 3.8
+    },
+    {
+      "id": 1320,
+      "name": "Ergonomic Hat 836",
+      "category": "Apparel",
+      "subcategory": "Hat",
+      "price": 64.15,
+      "currency": "USD",
+      "stock": 70,
+      "rating": 4.0
+    },
+    {
+      "id": 1321,
+      "name": "Ergonomic Vacuum 532",
+      "category": "Home & Kitchen",
+      "subcategory": "Vacuum",
+      "price": 108.95,
+      "currency": "USD",
+      "stock": 60,
+      "rating": 4.9
+    },
+    {
+      "id": 1322,
+      "name": "Portable Jacket 461",
+      "category": "Apparel",
+      "subcategory": "Jacket",
+      "price": 554.42,
+      "currency": "USD",
+      "stock": 6,
+      "rating": 3.6
+    },
+    {
+      "id": 1323,
+      "name": "Heavy-Duty Monitor 705",
+      "category": "Electronics",
+      "subcategory": "Monitor",
+      "price": 382.76,
+      "currency": "USD",
+      "stock": 12,
+      "rating": 3.6
+    },
+    {
+      "id": 1324,
+      "name": "Smart Guide 314",
+      "category": "Books",
+      "subcategory": "Guide",
+      "price": 722.24,
+      "currency": "USD",
+      "stock": 63,
+      "rating": 3.7
+    },
+    {
+      "id": 1325,
+      "name": "Waterproof Air Fryer 314",
+      "category": "Home & Kitchen",
+      "subcategory": "Air Fryer",
+      "price": 718.27,
+      "currency": "USD",
+      "stock": 14,
+      "rating": 3.1
+    },
+    {
+      "id": 1326,
+      "name": "Portable Coffee Maker 122",
+      "category": "Home & Kitchen",
+      "subcategory": "Coffee Maker",
+      "price": 995.43,
+      "currency": "USD",
+      "stock": 129,
+      "rating": 3.7
+    },
+    {
+      "id": 1327,
+      "name": "Smart Speaker 560",
+      "category": "Electronics",
+      "subcategory": "Speaker",
+      "price": 713.52,
+      "currency": "USD",
+      "stock": 101,
+      "rating": 3.7
+    },
+    {
+      "id": 1328,
+      "name": "Vintage Jeans 868",
+      "category": "Apparel",
+      "subcategory": "Jeans",
+      "price": 25.83,
+      "currency": "USD",
+      "stock": 127,
+      "rating": 4.9
+    },
+    {
+      "id": 1329,
+      "name": "Luxury Novel 783",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 652.22,
+      "currency": "USD",
+      "stock": 66,
+      "rating": 4.1
+    },
+    {
+      "id": 1330,
+      "name": "Stainless Steel Camera 585",
+      "category": "Electronics",
+      "subcategory": "Camera",
+      "price": 558.69,
+      "currency": "USD",
+      "stock": 106,
+      "rating": 4.0
+    },
+    {
+      "id": 1331,
+      "name": "Wireless Smartphone 712",
+      "category": "Electronics",
+      "subcategory": "Smartphone",
+      "price": 813.96,
+      "currency": "USD",
+      "stock": 135,
+      "rating": 3.3
+    },
+    {
+      "id": 1332,
+      "name": "Compact Running Shoes 516",
+      "category": "Sports",
+      "subcategory": "Running Shoes",
+      "price": 801.64,
+      "currency": "USD",
+      "stock": 74,
+      "rating": 4.9
+    },
+    {
+      "id": 1333,
+      "name": "Smart Cookbook 679",
+      "category": "Books",
+      "subcategory": "Cookbook",
+      "price": 449.97,
+      "currency": "USD",
+      "stock": 35,
+      "rating": 3.4
+    },
+    {
+      "id": 1334,
+      "name": "Compact Cookbook 958",
+      "category": "Books",
+      "subcategory": "Cookbook",
+      "price": 693.23,
+      "currency": "USD",
+      "stock": 110,
+      "rating": 4.5
+    },
+    {
+      "id": 1335,
+      "name": "Ergonomic Smartphone 681",
+      "category": "Electronics",
+      "subcategory": "Smartphone",
+      "price": 478.99,
+      "currency": "USD",
+      "stock": 45,
+      "rating": 4.6
+    },
+    {
+      "id": 1336,
+      "name": "Solar-Powered Running Shoes 640",
+      "category": "Sports",
+      "subcategory": "Running Shoes",
+      "price": 187.86,
+      "currency": "USD",
+      "stock": 125,
+      "rating": 4.2
+    },
+    {
+      "id": 1337,
+      "name": "Vintage Smartwatch 679",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 545.03,
+      "currency": "USD",
+      "stock": 140,
+      "rating": 4.2
+    },
+    {
+      "id": 1338,
+      "name": "Compact Monitor 807",
+      "category": "Electronics",
+      "subcategory": "Monitor",
+      "price": 283.0,
+      "currency": "USD",
+      "stock": 108,
+      "rating": 3.2
+    },
+    {
+      "id": 1339,
+      "name": "Smart Smartwatch 686",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 661.58,
+      "currency": "USD",
+      "stock": 91,
+      "rating": 4.8
+    },
+    {
+      "id": 1340,
+      "name": "Smart Running Shoes 221",
+      "category": "Sports",
+      "subcategory": "Running Shoes",
+      "price": 527.67,
+      "currency": "USD",
+      "stock": 91,
+      "rating": 4.2
+    },
+    {
+      "id": 1341,
+      "name": "Smart Camera 126",
+      "category": "Electronics",
+      "subcategory": "Camera",
+      "price": 381.19,
+      "currency": "USD",
+      "stock": 8,
+      "rating": 4.6
+    },
+    {
+      "id": 1342,
+      "name": "Compact Cookbook 604",
+      "category": "Books",
+      "subcategory": "Cookbook",
+      "price": 777.13,
+      "currency": "USD",
+      "stock": 82,
+      "rating": 4.2
+    },
+    {
+      "id": 1343,
+      "name": "Vintage Monitor 532",
+      "category": "Electronics",
+      "subcategory": "Monitor",
+      "price": 215.94,
+      "currency": "USD",
+      "stock": 108,
+      "rating": 3.1
+    },
+    {
+      "id": 1344,
+      "name": "Stainless Steel Speaker 903",
+      "category": "Electronics",
+      "subcategory": "Speaker",
+      "price": 730.75,
+      "currency": "USD",
+      "stock": 45,
+      "rating": 4.9
+    },
+    {
+      "id": 1345,
+      "name": "Stainless Steel Desk Lamp 446",
+      "category": "Home & Kitchen",
+      "subcategory": "Desk Lamp",
+      "price": 893.19,
+      "currency": "USD",
+      "stock": 76,
+      "rating": 3.8
+    },
+    {
+      "id": 1346,
+      "name": "Organic Laptop 676",
+      "category": "Electronics",
+      "subcategory": "Laptop",
+      "price": 772.59,
+      "currency": "USD",
+      "stock": 57,
+      "rating": 4.2
+    },
+    {
+      "id": 1347,
+      "name": "Solar-Powered Laptop 637",
+      "category": "Electronics",
+      "subcategory": "Laptop",
+      "price": 74.98,
+      "currency": "USD",
+      "stock": 129,
+      "rating": 4.6
+    },
+    {
+      "id": 1348,
+      "name": "Heavy-Duty Camera 555",
+      "category": "Electronics",
+      "subcategory": "Camera",
+      "price": 853.86,
+      "currency": "USD",
+      "stock": 111,
+      "rating": 4.9
+    },
+    {
+      "id": 1349,
+      "name": "Ergonomic Smartphone 810",
+      "category": "Electronics",
+      "subcategory": "Smartphone",
+      "price": 533.68,
+      "currency": "USD",
+      "stock": 130,
+      "rating": 4.4
+    },
+    {
+      "id": 1350,
+      "name": "Stainless Steel Textbook 542",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 408.8,
+      "currency": "USD",
+      "stock": 131,
+      "rating": 4.0
+    },
+    {
+      "id": 1351,
+      "name": "Ergonomic Biography 642",
+      "category": "Books",
+      "subcategory": "Biography",
+      "price": 431.32,
+      "currency": "USD",
+      "stock": 81,
+      "rating": 3.9
+    },
+    {
+      "id": 1352,
+      "name": "Luxury T-Shirt 593",
+      "category": "Apparel",
+      "subcategory": "T-Shirt",
+      "price": 47.5,
+      "currency": "USD",
+      "stock": 2,
+      "rating": 3.3
+    },
+    {
+      "id": 1353,
+      "name": "Vintage Headphones 996",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 186.71,
+      "currency": "USD",
+      "stock": 24,
+      "rating": 4.1
+    },
+    {
+      "id": 1354,
+      "name": "Heavy-Duty Guide 153",
+      "category": "Books",
+      "subcategory": "Guide",
+      "price": 881.46,
+      "currency": "USD",
+      "stock": 114,
+      "rating": 4.8
+    },
+    {
+      "id": 1355,
+      "name": "Luxury Laptop 833",
+      "category": "Electronics",
+      "subcategory": "Laptop",
+      "price": 520.95,
+      "currency": "USD",
+      "stock": 116,
+      "rating": 3.6
+    },
+    {
+      "id": 1356,
+      "name": "Heavy-Duty Speaker 638",
+      "category": "Electronics",
+      "subcategory": "Speaker",
+      "price": 748.92,
+      "currency": "USD",
+      "stock": 19,
+      "rating": 4.9
+    },
+    {
+      "id": 1357,
+      "name": "Portable Jeans 652",
+      "category": "Apparel",
+      "subcategory": "Jeans",
+      "price": 390.87,
+      "currency": "USD",
+      "stock": 149,
+      "rating": 4.4
+    },
+    {
+      "id": 1358,
+      "name": "Heavy-Duty Jeans 477",
+      "category": "Apparel",
+      "subcategory": "Jeans",
+      "price": 95.76,
+      "currency": "USD",
+      "stock": 90,
+      "rating": 4.4
+    },
+    {
+      "id": 1359,
+      "name": "Luxury Backpack 867",
+      "category": "Sports",
+      "subcategory": "Backpack",
+      "price": 417.97,
+      "currency": "USD",
+      "stock": 79,
+      "rating": 4.0
+    },
+    {
+      "id": 1360,
+      "name": "Heavy-Duty Toaster 500",
+      "category": "Home & Kitchen",
+      "subcategory": "Toaster",
+      "price": 844.4,
+      "currency": "USD",
+      "stock": 23,
+      "rating": 3.7
+    },
+    {
+      "id": 1361,
+      "name": "Ergonomic Jeans 725",
+      "category": "Apparel",
+      "subcategory": "Jeans",
+      "price": 429.34,
+      "currency": "USD",
+      "stock": 55,
+      "rating": 3.5
+    },
+    {
+      "id": 1362,
+      "name": "Vintage Dumbbells 992",
+      "category": "Sports",
+      "subcategory": "Dumbbells",
+      "price": 367.92,
+      "currency": "USD",
+      "stock": 9,
+      "rating": 5.0
+    },
+    {
+      "id": 1363,
+      "name": "Solar-Powered Blender 443",
+      "category": "Home & Kitchen",
+      "subcategory": "Blender",
+      "price": 794.5,
+      "currency": "USD",
+      "stock": 92,
+      "rating": 4.8
+    },
+    {
+      "id": 1364,
+      "name": "Waterproof Hat 933",
+      "category": "Apparel",
+      "subcategory": "Hat",
+      "price": 176.33,
+      "currency": "USD",
+      "stock": 87,
+      "rating": 4.5
+    },
+    {
+      "id": 1365,
+      "name": "Heavy-Duty Textbook 682",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 732.37,
+      "currency": "USD",
+      "stock": 12,
+      "rating": 4.7
+    },
+    {
+      "id": 1366,
+      "name": "Waterproof Tent 846",
+      "category": "Sports",
+      "subcategory": "Tent",
+      "price": 827.08,
+      "currency": "USD",
+      "stock": 52,
+      "rating": 4.3
+    },
+    {
+      "id": 1367,
+      "name": "Ergonomic Scarf 175",
+      "category": "Apparel",
+      "subcategory": "Scarf",
+      "price": 628.21,
+      "currency": "USD",
+      "stock": 108,
+      "rating": 4.8
+    },
+    {
+      "id": 1368,
+      "name": "Ergonomic Textbook 755",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 506.33,
+      "currency": "USD",
+      "stock": 65,
+      "rating": 3.3
+    },
+    {
+      "id": 1369,
+      "name": "Stainless Steel Toaster 926",
+      "category": "Home & Kitchen",
+      "subcategory": "Toaster",
+      "price": 264.83,
+      "currency": "USD",
+      "stock": 31,
+      "rating": 3.7
+    },
+    {
+      "id": 1370,
+      "name": "Ergonomic Bicycle 519",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 399.34,
+      "currency": "USD",
+      "stock": 125,
+      "rating": 4.0
+    },
+    {
+      "id": 1371,
+      "name": "Ergonomic Monitor 863",
+      "category": "Electronics",
+      "subcategory": "Monitor",
+      "price": 243.74,
+      "currency": "USD",
+      "stock": 66,
+      "rating": 4.8
+    },
+    {
+      "id": 1372,
+      "name": "Smart Textbook 882",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 107.09,
+      "currency": "USD",
+      "stock": 59,
+      "rating": 3.8
+    },
+    {
+      "id": 1373,
+      "name": "Solar-Powered Camera 165",
+      "category": "Electronics",
+      "subcategory": "Camera",
+      "price": 514.38,
+      "currency": "USD",
+      "stock": 111,
+      "rating": 4.2
+    },
+    {
+      "id": 1374,
+      "name": "Luxury Art Book 427",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 127.89,
+      "currency": "USD",
+      "stock": 83,
+      "rating": 4.5
+    },
+    {
+      "id": 1375,
+      "name": "Vintage Air Fryer 291",
+      "category": "Home & Kitchen",
+      "subcategory": "Air Fryer",
+      "price": 924.47,
+      "currency": "USD",
+      "stock": 18,
+      "rating": 3.3
+    },
+    {
+      "id": 1376,
+      "name": "Solar-Powered Backpack 746",
+      "category": "Sports",
+      "subcategory": "Backpack",
+      "price": 422.13,
+      "currency": "USD",
+      "stock": 100,
+      "rating": 4.4
+    },
+    {
+      "id": 1377,
+      "name": "Solar-Powered Running Shoes 424",
+      "category": "Sports",
+      "subcategory": "Running Shoes",
+      "price": 258.72,
+      "currency": "USD",
+      "stock": 22,
+      "rating": 3.0
+    },
+    {
+      "id": 1378,
+      "name": "Waterproof Headphones 874",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 766.59,
+      "currency": "USD",
+      "stock": 58,
+      "rating": 4.1
+    },
+    {
+      "id": 1379,
+      "name": "Portable Scarf 989",
+      "category": "Apparel",
+      "subcategory": "Scarf",
+      "price": 627.35,
+      "currency": "USD",
+      "stock": 144,
+      "rating": 5.0
+    },
+    {
+      "id": 1380,
+      "name": "Wireless Smartwatch 194",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 617.97,
+      "currency": "USD",
+      "stock": 80,
+      "rating": 3.2
+    },
+    {
+      "id": 1381,
+      "name": "Solar-Powered Running Shoes 939",
+      "category": "Sports",
+      "subcategory": "Running Shoes",
+      "price": 637.16,
+      "currency": "USD",
+      "stock": 80,
+      "rating": 4.5
+    },
+    {
+      "id": 1382,
+      "name": "Heavy-Duty Scarf 307",
+      "category": "Apparel",
+      "subcategory": "Scarf",
+      "price": 752.27,
+      "currency": "USD",
+      "stock": 147,
+      "rating": 4.0
+    },
+    {
+      "id": 1383,
+      "name": "Luxury Scarf 247",
+      "category": "Apparel",
+      "subcategory": "Scarf",
+      "price": 329.39,
+      "currency": "USD",
+      "stock": 11,
+      "rating": 3.7
+    },
+    {
+      "id": 1384,
+      "name": "Vintage Guide 967",
+      "category": "Books",
+      "subcategory": "Guide",
+      "price": 71.39,
+      "currency": "USD",
+      "stock": 56,
+      "rating": 3.9
+    },
+    {
+      "id": 1385,
+      "name": "Ergonomic Scarf 828",
+      "category": "Apparel",
+      "subcategory": "Scarf",
+      "price": 188.48,
+      "currency": "USD",
+      "stock": 10,
+      "rating": 3.6
+    },
+    {
+      "id": 1386,
+      "name": "Smart Toaster 112",
+      "category": "Home & Kitchen",
+      "subcategory": "Toaster",
+      "price": 773.86,
+      "currency": "USD",
+      "stock": 123,
+      "rating": 3.7
+    },
+    {
+      "id": 1387,
+      "name": "Wireless Sunglasses 965",
+      "category": "Apparel",
+      "subcategory": "Sunglasses",
+      "price": 843.16,
+      "currency": "USD",
+      "stock": 139,
+      "rating": 3.4
+    },
+    {
+      "id": 1388,
+      "name": "Luxury Knife Set 776",
+      "category": "Home & Kitchen",
+      "subcategory": "Knife Set",
+      "price": 947.2,
+      "currency": "USD",
+      "stock": 106,
+      "rating": 3.2
+    },
+    {
+      "id": 1389,
+      "name": "Compact Toaster 104",
+      "category": "Home & Kitchen",
+      "subcategory": "Toaster",
+      "price": 661.97,
+      "currency": "USD",
+      "stock": 88,
+      "rating": 4.7
+    },
+    {
+      "id": 1390,
+      "name": "Wireless Backpack 232",
+      "category": "Sports",
+      "subcategory": "Backpack",
+      "price": 371.77,
+      "currency": "USD",
+      "stock": 1,
+      "rating": 3.7
+    },
+    {
+      "id": 1391,
+      "name": "Waterproof Sunglasses 753",
+      "category": "Apparel",
+      "subcategory": "Sunglasses",
+      "price": 279.47,
+      "currency": "USD",
+      "stock": 2,
+      "rating": 4.1
+    },
+    {
+      "id": 1392,
+      "name": "Solar-Powered Jeans 676",
+      "category": "Apparel",
+      "subcategory": "Jeans",
+      "price": 667.07,
+      "currency": "USD",
+      "stock": 11,
+      "rating": 4.7
+    },
+    {
+      "id": 1393,
+      "name": "Solar-Powered Jeans 686",
+      "category": "Apparel",
+      "subcategory": "Jeans",
+      "price": 270.63,
+      "currency": "USD",
+      "stock": 84,
+      "rating": 3.8
+    },
+    {
+      "id": 1394,
+      "name": "Organic Art Book 622",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 112.14,
+      "currency": "USD",
+      "stock": 13,
+      "rating": 4.3
+    },
+    {
+      "id": 1395,
+      "name": "Solar-Powered Novel 369",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 232.51,
+      "currency": "USD",
+      "stock": 142,
+      "rating": 3.2
+    },
+    {
+      "id": 1396,
+      "name": "Organic Jeans 487",
+      "category": "Apparel",
+      "subcategory": "Jeans",
+      "price": 439.13,
+      "currency": "USD",
+      "stock": 47,
+      "rating": 4.9
+    },
+    {
+      "id": 1397,
+      "name": "Waterproof Yoga Mat 988",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 834.32,
+      "currency": "USD",
+      "stock": 52,
+      "rating": 4.1
+    },
+    {
+      "id": 1398,
+      "name": "Stainless Steel Bicycle 250",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 415.42,
+      "currency": "USD",
+      "stock": 133,
+      "rating": 3.2
+    },
+    {
+      "id": 1399,
+      "name": "Vintage Laptop 185",
+      "category": "Electronics",
+      "subcategory": "Laptop",
+      "price": 21.81,
+      "currency": "USD",
+      "stock": 27,
+      "rating": 3.4
+    },
+    {
+      "id": 1400,
+      "name": "Portable Jacket 394",
+      "category": "Apparel",
+      "subcategory": "Jacket",
+      "price": 888.62,
+      "currency": "USD",
+      "stock": 47,
+      "rating": 3.6
+    },
+    {
+      "id": 1401,
+      "name": "Wireless Running Shoes 468",
+      "category": "Sports",
+      "subcategory": "Running Shoes",
+      "price": 928.6,
+      "currency": "USD",
+      "stock": 139,
+      "rating": 3.0
+    },
+    {
+      "id": 1402,
+      "name": "Waterproof Hat 553",
+      "category": "Apparel",
+      "subcategory": "Hat",
+      "price": 117.14,
+      "currency": "USD",
+      "stock": 35,
+      "rating": 3.3
+    },
+    {
+      "id": 1403,
+      "name": "Wireless Textbook 950",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 978.84,
+      "currency": "USD",
+      "stock": 21,
+      "rating": 4.1
+    },
+    {
+      "id": 1404,
+      "name": "Compact Textbook 999",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 707.7,
+      "currency": "USD",
+      "stock": 110,
+      "rating": 4.9
+    },
+    {
+      "id": 1405,
+      "name": "Luxury Bicycle 950",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 466.0,
+      "currency": "USD",
+      "stock": 120,
+      "rating": 3.5
+    },
+    {
+      "id": 1406,
+      "name": "Smart Smartwatch 553",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 501.45,
+      "currency": "USD",
+      "stock": 130,
+      "rating": 4.6
+    },
+    {
+      "id": 1407,
+      "name": "Luxury Sneakers 327",
+      "category": "Apparel",
+      "subcategory": "Sneakers",
+      "price": 952.07,
+      "currency": "USD",
+      "stock": 65,
+      "rating": 4.3
+    },
+    {
+      "id": 1408,
+      "name": "Ergonomic Toaster 602",
+      "category": "Home & Kitchen",
+      "subcategory": "Toaster",
+      "price": 541.89,
+      "currency": "USD",
+      "stock": 120,
+      "rating": 4.9
+    },
+    {
+      "id": 1409,
+      "name": "Organic Blender 770",
+      "category": "Home & Kitchen",
+      "subcategory": "Blender",
+      "price": 289.28,
+      "currency": "USD",
+      "stock": 19,
+      "rating": 4.9
+    },
+    {
+      "id": 1410,
+      "name": "Ergonomic Biography 980",
+      "category": "Books",
+      "subcategory": "Biography",
+      "price": 247.23,
+      "currency": "USD",
+      "stock": 111,
+      "rating": 3.0
+    },
+    {
+      "id": 1411,
+      "name": "Vintage Laptop 824",
+      "category": "Electronics",
+      "subcategory": "Laptop",
+      "price": 223.4,
+      "currency": "USD",
+      "stock": 114,
+      "rating": 3.6
+    },
+    {
+      "id": 1412,
+      "name": "Portable Laptop 813",
+      "category": "Electronics",
+      "subcategory": "Laptop",
+      "price": 615.74,
+      "currency": "USD",
+      "stock": 125,
+      "rating": 3.4
+    },
+    {
+      "id": 1413,
+      "name": "Smart Backpack 102",
+      "category": "Sports",
+      "subcategory": "Backpack",
+      "price": 90.79,
+      "currency": "USD",
+      "stock": 146,
+      "rating": 4.6
+    },
+    {
+      "id": 1414,
+      "name": "Portable Guide 374",
+      "category": "Books",
+      "subcategory": "Guide",
+      "price": 658.23,
+      "currency": "USD",
+      "stock": 48,
+      "rating": 4.0
+    },
+    {
+      "id": 1415,
+      "name": "Heavy-Duty Hat 336",
+      "category": "Apparel",
+      "subcategory": "Hat",
+      "price": 896.87,
+      "currency": "USD",
+      "stock": 50,
+      "rating": 4.1
+    },
+    {
+      "id": 1416,
+      "name": "Portable T-Shirt 625",
+      "category": "Apparel",
+      "subcategory": "T-Shirt",
+      "price": 210.75,
+      "currency": "USD",
+      "stock": 149,
+      "rating": 4.9
+    },
+    {
+      "id": 1417,
+      "name": "Smart Jeans 711",
+      "category": "Apparel",
+      "subcategory": "Jeans",
+      "price": 131.03,
+      "currency": "USD",
+      "stock": 17,
+      "rating": 4.0
+    },
+    {
+      "id": 1418,
+      "name": "Stainless Steel Sneakers 817",
+      "category": "Apparel",
+      "subcategory": "Sneakers",
+      "price": 273.29,
+      "currency": "USD",
+      "stock": 89,
+      "rating": 4.1
+    },
+    {
+      "id": 1419,
+      "name": "Smart Running Shoes 199",
+      "category": "Sports",
+      "subcategory": "Running Shoes",
+      "price": 23.11,
+      "currency": "USD",
+      "stock": 57,
+      "rating": 4.1
+    },
+    {
+      "id": 1420,
+      "name": "Stainless Steel Headphones 291",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 163.06,
+      "currency": "USD",
+      "stock": 80,
+      "rating": 3.9
+    },
+    {
+      "id": 1421,
+      "name": "Luxury Dumbbells 491",
+      "category": "Sports",
+      "subcategory": "Dumbbells",
+      "price": 594.31,
+      "currency": "USD",
+      "stock": 123,
+      "rating": 3.3
+    },
+    {
+      "id": 1422,
+      "name": "Luxury Guide 896",
+      "category": "Books",
+      "subcategory": "Guide",
+      "price": 983.1,
+      "currency": "USD",
+      "stock": 11,
+      "rating": 4.9
+    },
+    {
+      "id": 1423,
+      "name": "Wireless Novel 728",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 328.81,
+      "currency": "USD",
+      "stock": 51,
+      "rating": 4.1
+    },
+    {
+      "id": 1424,
+      "name": "Portable Vacuum 562",
+      "category": "Home & Kitchen",
+      "subcategory": "Vacuum",
+      "price": 368.77,
+      "currency": "USD",
+      "stock": 51,
+      "rating": 4.6
+    },
+    {
+      "id": 1425,
+      "name": "Waterproof Yoga Mat 826",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 344.42,
+      "currency": "USD",
+      "stock": 40,
+      "rating": 3.9
+    },
+    {
+      "id": 1426,
+      "name": "Heavy-Duty Vacuum 539",
+      "category": "Home & Kitchen",
+      "subcategory": "Vacuum",
+      "price": 330.52,
+      "currency": "USD",
+      "stock": 16,
+      "rating": 4.0
+    },
+    {
+      "id": 1427,
+      "name": "Wireless Smartwatch 816",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 497.62,
+      "currency": "USD",
+      "stock": 30,
+      "rating": 3.9
+    },
+    {
+      "id": 1428,
+      "name": "Heavy-Duty Desk Lamp 469",
+      "category": "Home & Kitchen",
+      "subcategory": "Desk Lamp",
+      "price": 529.82,
+      "currency": "USD",
+      "stock": 94,
+      "rating": 3.5
+    },
+    {
+      "id": 1429,
+      "name": "Smart Tent 375",
+      "category": "Sports",
+      "subcategory": "Tent",
+      "price": 130.51,
+      "currency": "USD",
+      "stock": 95,
+      "rating": 4.1
+    },
+    {
+      "id": 1430,
+      "name": "Organic Headphones 920",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 64.42,
+      "currency": "USD",
+      "stock": 93,
+      "rating": 3.7
+    },
+    {
+      "id": 1431,
+      "name": "Ergonomic Bicycle 801",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 160.43,
+      "currency": "USD",
+      "stock": 85,
+      "rating": 4.9
+    },
+    {
+      "id": 1432,
+      "name": "Smart Sneakers 555",
+      "category": "Apparel",
+      "subcategory": "Sneakers",
+      "price": 858.67,
+      "currency": "USD",
+      "stock": 71,
+      "rating": 4.8
+    },
+    {
+      "id": 1433,
+      "name": "Organic Camera 234",
+      "category": "Electronics",
+      "subcategory": "Camera",
+      "price": 582.87,
+      "currency": "USD",
+      "stock": 123,
+      "rating": 3.4
+    },
+    {
+      "id": 1434,
+      "name": "Stainless Steel Art Book 159",
+      "category": "Books",
+      "subcategory": "Art Book",
+      "price": 787.89,
+      "currency": "USD",
+      "stock": 22,
+      "rating": 4.5
+    },
+    {
+      "id": 1435,
+      "name": "Portable Monitor 835",
+      "category": "Electronics",
+      "subcategory": "Monitor",
+      "price": 798.35,
+      "currency": "USD",
+      "stock": 120,
+      "rating": 3.5
+    },
+    {
+      "id": 1436,
+      "name": "Wireless Vacuum 808",
+      "category": "Home & Kitchen",
+      "subcategory": "Vacuum",
+      "price": 775.91,
+      "currency": "USD",
+      "stock": 88,
+      "rating": 3.3
+    },
+    {
+      "id": 1437,
+      "name": "Organic Tent 833",
+      "category": "Sports",
+      "subcategory": "Tent",
+      "price": 705.36,
+      "currency": "USD",
+      "stock": 33,
+      "rating": 3.4
+    },
+    {
+      "id": 1438,
+      "name": "Vintage Monitor 977",
+      "category": "Electronics",
+      "subcategory": "Monitor",
+      "price": 59.04,
+      "currency": "USD",
+      "stock": 127,
+      "rating": 3.9
+    },
+    {
+      "id": 1439,
+      "name": "Ergonomic Blender 111",
+      "category": "Home & Kitchen",
+      "subcategory": "Blender",
+      "price": 707.18,
+      "currency": "USD",
+      "stock": 81,
+      "rating": 3.8
+    },
+    {
+      "id": 1440,
+      "name": "Waterproof Bicycle 731",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 514.73,
+      "currency": "USD",
+      "stock": 24,
+      "rating": 4.7
+    },
+    {
+      "id": 1441,
+      "name": "Vintage Guide 145",
+      "category": "Books",
+      "subcategory": "Guide",
+      "price": 693.36,
+      "currency": "USD",
+      "stock": 37,
+      "rating": 3.5
+    },
+    {
+      "id": 1442,
+      "name": "Compact Blender 156",
+      "category": "Home & Kitchen",
+      "subcategory": "Blender",
+      "price": 447.66,
+      "currency": "USD",
+      "stock": 60,
+      "rating": 4.3
+    },
+    {
+      "id": 1443,
+      "name": "Heavy-Duty Air Fryer 912",
+      "category": "Home & Kitchen",
+      "subcategory": "Air Fryer",
+      "price": 216.41,
+      "currency": "USD",
+      "stock": 37,
+      "rating": 3.6
+    },
+    {
+      "id": 1444,
+      "name": "Solar-Powered Textbook 691",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 269.16,
+      "currency": "USD",
+      "stock": 15,
+      "rating": 4.1
+    },
+    {
+      "id": 1445,
+      "name": "Portable T-Shirt 534",
+      "category": "Apparel",
+      "subcategory": "T-Shirt",
+      "price": 924.55,
+      "currency": "USD",
+      "stock": 88,
+      "rating": 3.9
+    },
+    {
+      "id": 1446,
+      "name": "Vintage Vacuum 976",
+      "category": "Home & Kitchen",
+      "subcategory": "Vacuum",
+      "price": 268.54,
+      "currency": "USD",
+      "stock": 45,
+      "rating": 4.7
+    },
+    {
+      "id": 1447,
+      "name": "Luxury Jacket 152",
+      "category": "Apparel",
+      "subcategory": "Jacket",
+      "price": 704.0,
+      "currency": "USD",
+      "stock": 62,
+      "rating": 3.4
+    },
+    {
+      "id": 1448,
+      "name": "Solar-Powered T-Shirt 938",
+      "category": "Apparel",
+      "subcategory": "T-Shirt",
+      "price": 409.35,
+      "currency": "USD",
+      "stock": 69,
+      "rating": 3.9
+    },
+    {
+      "id": 1449,
+      "name": "Waterproof T-Shirt 997",
+      "category": "Apparel",
+      "subcategory": "T-Shirt",
+      "price": 956.21,
+      "currency": "USD",
+      "stock": 45,
+      "rating": 4.8
+    },
+    {
+      "id": 1450,
+      "name": "Organic Hat 579",
+      "category": "Apparel",
+      "subcategory": "Hat",
+      "price": 583.89,
+      "currency": "USD",
+      "stock": 73,
+      "rating": 3.8
+    },
+    {
+      "id": 1451,
+      "name": "Waterproof Speaker 980",
+      "category": "Electronics",
+      "subcategory": "Speaker",
+      "price": 210.81,
+      "currency": "USD",
+      "stock": 148,
+      "rating": 4.6
+    },
+    {
+      "id": 1452,
+      "name": "Organic Camera 279",
+      "category": "Electronics",
+      "subcategory": "Camera",
+      "price": 380.97,
+      "currency": "USD",
+      "stock": 140,
+      "rating": 4.7
+    },
+    {
+      "id": 1453,
+      "name": "Waterproof Tent 533",
+      "category": "Sports",
+      "subcategory": "Tent",
+      "price": 195.88,
+      "currency": "USD",
+      "stock": 32,
+      "rating": 3.4
+    },
+    {
+      "id": 1454,
+      "name": "Heavy-Duty Tent 624",
+      "category": "Sports",
+      "subcategory": "Tent",
+      "price": 424.36,
+      "currency": "USD",
+      "stock": 65,
+      "rating": 4.4
+    },
+    {
+      "id": 1455,
+      "name": "Wireless Jeans 953",
+      "category": "Apparel",
+      "subcategory": "Jeans",
+      "price": 182.59,
+      "currency": "USD",
+      "stock": 137,
+      "rating": 4.0
+    },
+    {
+      "id": 1456,
+      "name": "Stainless Steel Bicycle 948",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 669.32,
+      "currency": "USD",
+      "stock": 89,
+      "rating": 3.3
+    },
+    {
+      "id": 1457,
+      "name": "Solar-Powered Speaker 847",
+      "category": "Electronics",
+      "subcategory": "Speaker",
+      "price": 546.8,
+      "currency": "USD",
+      "stock": 45,
+      "rating": 3.3
+    },
+    {
+      "id": 1458,
+      "name": "Smart T-Shirt 540",
+      "category": "Apparel",
+      "subcategory": "T-Shirt",
+      "price": 157.42,
+      "currency": "USD",
+      "stock": 6,
+      "rating": 3.8
+    },
+    {
+      "id": 1459,
+      "name": "Ergonomic Sneakers 304",
+      "category": "Apparel",
+      "subcategory": "Sneakers",
+      "price": 521.07,
+      "currency": "USD",
+      "stock": 66,
+      "rating": 4.5
+    },
+    {
+      "id": 1460,
+      "name": "Organic Smartwatch 484",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 653.12,
+      "currency": "USD",
+      "stock": 90,
+      "rating": 4.8
+    },
+    {
+      "id": 1461,
+      "name": "Ergonomic Headphones 385",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 104.69,
+      "currency": "USD",
+      "stock": 64,
+      "rating": 3.3
+    },
+    {
+      "id": 1462,
+      "name": "Wireless Desk Lamp 674",
+      "category": "Home & Kitchen",
+      "subcategory": "Desk Lamp",
+      "price": 89.67,
+      "currency": "USD",
+      "stock": 77,
+      "rating": 3.4
+    },
+    {
+      "id": 1463,
+      "name": "Vintage Running Shoes 781",
+      "category": "Sports",
+      "subcategory": "Running Shoes",
+      "price": 412.03,
+      "currency": "USD",
+      "stock": 80,
+      "rating": 4.2
+    },
+    {
+      "id": 1464,
+      "name": "Stainless Steel Guide 778",
+      "category": "Books",
+      "subcategory": "Guide",
+      "price": 739.09,
+      "currency": "USD",
+      "stock": 114,
+      "rating": 4.2
+    },
+    {
+      "id": 1465,
+      "name": "Portable Blender 109",
+      "category": "Home & Kitchen",
+      "subcategory": "Blender",
+      "price": 642.64,
+      "currency": "USD",
+      "stock": 0,
+      "rating": 3.6
+    },
+    {
+      "id": 1466,
+      "name": "Waterproof Sneakers 665",
+      "category": "Apparel",
+      "subcategory": "Sneakers",
+      "price": 83.62,
+      "currency": "USD",
+      "stock": 137,
+      "rating": 4.8
+    },
+    {
+      "id": 1467,
+      "name": "Wireless Speaker 343",
+      "category": "Electronics",
+      "subcategory": "Speaker",
+      "price": 795.72,
+      "currency": "USD",
+      "stock": 19,
+      "rating": 3.2
+    },
+    {
+      "id": 1468,
+      "name": "Compact Laptop 832",
+      "category": "Electronics",
+      "subcategory": "Laptop",
+      "price": 977.22,
+      "currency": "USD",
+      "stock": 52,
+      "rating": 4.8
+    },
+    {
+      "id": 1469,
+      "name": "Waterproof Speaker 318",
+      "category": "Electronics",
+      "subcategory": "Speaker",
+      "price": 171.63,
+      "currency": "USD",
+      "stock": 97,
+      "rating": 3.1
+    },
+    {
+      "id": 1470,
+      "name": "Luxury Camera 952",
+      "category": "Electronics",
+      "subcategory": "Camera",
+      "price": 113.01,
+      "currency": "USD",
+      "stock": 127,
+      "rating": 3.1
+    },
+    {
+      "id": 1471,
+      "name": "Compact Sunglasses 684",
+      "category": "Apparel",
+      "subcategory": "Sunglasses",
+      "price": 44.37,
+      "currency": "USD",
+      "stock": 73,
+      "rating": 4.1
+    },
+    {
+      "id": 1472,
+      "name": "Ergonomic Smartwatch 855",
+      "category": "Electronics",
+      "subcategory": "Smartwatch",
+      "price": 36.99,
+      "currency": "USD",
+      "stock": 135,
+      "rating": 5.0
+    },
+    {
+      "id": 1473,
+      "name": "Smart Bicycle 482",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 595.52,
+      "currency": "USD",
+      "stock": 46,
+      "rating": 3.8
+    },
+    {
+      "id": 1474,
+      "name": "Smart Textbook 467",
+      "category": "Books",
+      "subcategory": "Textbook",
+      "price": 141.13,
+      "currency": "USD",
+      "stock": 75,
+      "rating": 4.2
+    },
+    {
+      "id": 1475,
+      "name": "Solar-Powered Tent 409",
+      "category": "Sports",
+      "subcategory": "Tent",
+      "price": 542.37,
+      "currency": "USD",
+      "stock": 111,
+      "rating": 4.9
+    },
+    {
+      "id": 1476,
+      "name": "Organic Hat 143",
+      "category": "Apparel",
+      "subcategory": "Hat",
+      "price": 107.86,
+      "currency": "USD",
+      "stock": 86,
+      "rating": 3.5
+    },
+    {
+      "id": 1477,
+      "name": "Smart Camera 529",
+      "category": "Electronics",
+      "subcategory": "Camera",
+      "price": 392.79,
+      "currency": "USD",
+      "stock": 109,
+      "rating": 3.7
+    },
+    {
+      "id": 1478,
+      "name": "Ergonomic Tent 405",
+      "category": "Sports",
+      "subcategory": "Tent",
+      "price": 100.46,
+      "currency": "USD",
+      "stock": 126,
+      "rating": 3.4
+    },
+    {
+      "id": 1479,
+      "name": "Vintage Sneakers 848",
+      "category": "Apparel",
+      "subcategory": "Sneakers",
+      "price": 948.03,
+      "currency": "USD",
+      "stock": 96,
+      "rating": 4.9
+    },
+    {
+      "id": 1480,
+      "name": "Compact Desk Lamp 415",
+      "category": "Home & Kitchen",
+      "subcategory": "Desk Lamp",
+      "price": 586.02,
+      "currency": "USD",
+      "stock": 129,
+      "rating": 4.3
+    },
+    {
+      "id": 1481,
+      "name": "Stainless Steel Biography 514",
+      "category": "Books",
+      "subcategory": "Biography",
+      "price": 612.37,
+      "currency": "USD",
+      "stock": 84,
+      "rating": 3.2
+    },
+    {
+      "id": 1482,
+      "name": "Compact Vacuum 688",
+      "category": "Home & Kitchen",
+      "subcategory": "Vacuum",
+      "price": 765.06,
+      "currency": "USD",
+      "stock": 47,
+      "rating": 3.8
+    },
+    {
+      "id": 1483,
+      "name": "Ergonomic Backpack 816",
+      "category": "Sports",
+      "subcategory": "Backpack",
+      "price": 417.97,
+      "currency": "USD",
+      "stock": 20,
+      "rating": 4.1
+    },
+    {
+      "id": 1484,
+      "name": "Vintage Biography 701",
+      "category": "Books",
+      "subcategory": "Biography",
+      "price": 851.35,
+      "currency": "USD",
+      "stock": 42,
+      "rating": 5.0
+    },
+    {
+      "id": 1485,
+      "name": "Ergonomic Jacket 509",
+      "category": "Apparel",
+      "subcategory": "Jacket",
+      "price": 313.34,
+      "currency": "USD",
+      "stock": 42,
+      "rating": 4.0
+    },
+    {
+      "id": 1486,
+      "name": "Smart Speaker 578",
+      "category": "Electronics",
+      "subcategory": "Speaker",
+      "price": 520.47,
+      "currency": "USD",
+      "stock": 122,
+      "rating": 3.1
+    },
+    {
+      "id": 1487,
+      "name": "Heavy-Duty Bicycle 123",
+      "category": "Sports",
+      "subcategory": "Bicycle",
+      "price": 226.19,
+      "currency": "USD",
+      "stock": 23,
+      "rating": 3.5
+    },
+    {
+      "id": 1488,
+      "name": "Luxury Coffee Maker 941",
+      "category": "Home & Kitchen",
+      "subcategory": "Coffee Maker",
+      "price": 411.22,
+      "currency": "USD",
+      "stock": 114,
+      "rating": 4.0
+    },
+    {
+      "id": 1489,
+      "name": "Stainless Steel Biography 995",
+      "category": "Books",
+      "subcategory": "Biography",
+      "price": 492.73,
+      "currency": "USD",
+      "stock": 74,
+      "rating": 3.7
+    },
+    {
+      "id": 1490,
+      "name": "Ergonomic Hat 893",
+      "category": "Apparel",
+      "subcategory": "Hat",
+      "price": 54.45,
+      "currency": "USD",
+      "stock": 52,
+      "rating": 3.3
+    },
+    {
+      "id": 1491,
+      "name": "Portable Smartphone 493",
+      "category": "Electronics",
+      "subcategory": "Smartphone",
+      "price": 967.14,
+      "currency": "USD",
+      "stock": 132,
+      "rating": 3.5
+    },
+    {
+      "id": 1492,
+      "name": "Luxury Knife Set 943",
+      "category": "Home & Kitchen",
+      "subcategory": "Knife Set",
+      "price": 380.68,
+      "currency": "USD",
+      "stock": 41,
+      "rating": 4.9
+    },
+    {
+      "id": 1493,
+      "name": "Ergonomic Toaster 576",
+      "category": "Home & Kitchen",
+      "subcategory": "Toaster",
+      "price": 971.2,
+      "currency": "USD",
+      "stock": 42,
+      "rating": 3.3
+    },
+    {
+      "id": 1494,
+      "name": "Solar-Powered Camera 135",
+      "category": "Electronics",
+      "subcategory": "Camera",
+      "price": 57.35,
+      "currency": "USD",
+      "stock": 145,
+      "rating": 4.0
+    },
+    {
+      "id": 1495,
+      "name": "Portable Jeans 873",
+      "category": "Apparel",
+      "subcategory": "Jeans",
+      "price": 606.87,
+      "currency": "USD",
+      "stock": 8,
+      "rating": 3.7
+    },
+    {
+      "id": 1496,
+      "name": "Solar-Powered Backpack 164",
+      "category": "Sports",
+      "subcategory": "Backpack",
+      "price": 810.19,
+      "currency": "USD",
+      "stock": 16,
+      "rating": 4.0
+    },
+    {
+      "id": 1497,
+      "name": "Compact Novel 511",
+      "category": "Books",
+      "subcategory": "Novel",
+      "price": 395.5,
+      "currency": "USD",
+      "stock": 30,
+      "rating": 4.4
+    },
+    {
+      "id": 1498,
+      "name": "Wireless Monitor 756",
+      "category": "Electronics",
+      "subcategory": "Monitor",
+      "price": 762.89,
+      "currency": "USD",
+      "stock": 53,
+      "rating": 4.7
+    },
+    {
+      "id": 1499,
+      "name": "Vintage Yoga Mat 975",
+      "category": "Sports",
+      "subcategory": "Yoga Mat",
+      "price": 463.04,
+      "currency": "USD",
+      "stock": 1,
+      "rating": 4.6
+    },
+    {
+      "id": 1500,
+      "name": "Vintage Vacuum 550",
+      "category": "Home & Kitchen",
+      "subcategory": "Vacuum",
+      "price": 919.03,
+      "currency": "USD",
+      "stock": 32,
+      "rating": 3.1
+    }
+  ]
+}
