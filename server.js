@@ -60,4 +60,47 @@ app.post('/products', (req, res) => {
     }
 })
 
+app.put('/products/:id', (req, res) => {
+    const { body, params:{id} } = req;
+
+    let {count, products} = JSON.parse(fs.readFileSync("./products.json", {encoding:"utf-8"}));
+    const { name, category, subcategory, price, currency, stock, rating } = body;
+    
+    // Fetch product index
+    foundProductIndex = products.findIndex((product) => product.id === id);
+
+    if (foundProductIndex < 0) {
+        res.status(404).json({ error : `Could not find item with id ${id}.`})
+        console.log(`Could not find item with id ${id}.`);
+        return;
+    }
+
+    const updatedProductObject = {
+        id,
+        name,
+        category,
+        subcategory,
+        price,
+        currency,
+        stock,
+        rating
+    };
+
+    products[foundProductIndex] = updatedProductObject;
+
+    try {
+            fs.writeFileSync('./products.json', JSON.stringify({
+                count: count, 
+                products: products
+            }, null, 2))
+            res.status(200).json({ msg: `Product with id ${id} was successfully modified.`})
+    } catch (e) {
+        console.log('error');
+        res.status(400).json({
+            error: "Failed to update to products"
+        });
+        throw e;
+    }
+})
+
 app.listen(9000, () => console.log("Server running on port 9000"))
