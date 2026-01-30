@@ -22,9 +22,9 @@ app.get("/products", (req, res) => {
 })
 
 app.post('/products', (req, res) => {
-    const {count, products} = JSON.parse(fs.readFileSync("./products.json", {encoding:"utf-8"}));
+    let {count, products} = JSON.parse(fs.readFileSync("./products.json", {encoding:"utf-8"}));
     
-    const { name, category, subcategory, price, currency, stock, rating } = req.body
+    let { name, category, subcategory, price, currency, stock, rating } = req.body
     const id = count + 1001;
 
     const newProductObject = {
@@ -39,6 +39,25 @@ app.post('/products', (req, res) => {
     };
 
     products.push(newProductObject);
+        
+    try {
+        fs.writeFileSync('./products.json', JSON.stringify({
+            count: count + 1, 
+            products: products
+        }, null, 2))
+        res.status(201).json(
+            {
+                message: "Product added successfully",
+                newId: id
+            }
+        );
+    } catch (e){
+        console.log('error');
+        res.status(400).json({
+            error: "Failed to write to file"
+        });
+        throw e;
+    }
 })
 
 app.listen(9000, () => console.log("Server running on port 9000"))

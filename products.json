@@ -1,5 +1,5 @@
 {
-  "count": 500,
+  "count": 502,
   "products": [
     {
       "id": 1001,
@@ -29,7 +29,7 @@
       "price": 308.3,
       "currency": "USD",
       "stock": 0,
-      "rating": 3.0
+      "rating": 3
     },
     {
       "id": 1004,
@@ -46,7 +46,7 @@
       "name": "Solar-Powered Hat 588",
       "category": "Apparel",
       "subcategory": "Hat",
-      "price": 587.0,
+      "price": 587,
       "currency": "USD",
       "stock": 137,
       "rating": 3.9
@@ -69,7 +69,7 @@
       "price": 719.2,
       "currency": "USD",
       "stock": 94,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1008,
@@ -119,14 +119,14 @@
       "price": 225.09,
       "currency": "USD",
       "stock": 63,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1013,
       "name": "Wireless Bicycle 589",
       "category": "Sports",
       "subcategory": "Bicycle",
-      "price": 327.0,
+      "price": 327,
       "currency": "USD",
       "stock": 60,
       "rating": 4.7
@@ -479,7 +479,7 @@
       "price": 643.94,
       "currency": "USD",
       "stock": 21,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1049,
@@ -539,7 +539,7 @@
       "price": 490.78,
       "currency": "USD",
       "stock": 28,
-      "rating": 5.0
+      "rating": 5
     },
     {
       "id": 1055,
@@ -646,7 +646,7 @@
       "name": "Waterproof Novel 196",
       "category": "Books",
       "subcategory": "Novel",
-      "price": 89.0,
+      "price": 89,
       "currency": "USD",
       "stock": 86,
       "rating": 3.9
@@ -659,7 +659,7 @@
       "price": 724.03,
       "currency": "USD",
       "stock": 97,
-      "rating": 5.0
+      "rating": 5
     },
     {
       "id": 1067,
@@ -786,7 +786,7 @@
       "name": "Ergonomic Tent 221",
       "category": "Sports",
       "subcategory": "Tent",
-      "price": 912.0,
+      "price": 912,
       "currency": "USD",
       "stock": 2,
       "rating": 3.5
@@ -799,7 +799,7 @@
       "price": 257.3,
       "currency": "USD",
       "stock": 57,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1081,
@@ -849,7 +849,7 @@
       "price": 124.39,
       "currency": "USD",
       "stock": 28,
-      "rating": 3.0
+      "rating": 3
     },
     {
       "id": 1086,
@@ -1169,7 +1169,7 @@
       "price": 723.84,
       "currency": "USD",
       "stock": 57,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1118,
@@ -1189,7 +1189,7 @@
       "price": 686.12,
       "currency": "USD",
       "stock": 49,
-      "rating": 3.0
+      "rating": 3
     },
     {
       "id": 1120,
@@ -1359,7 +1359,7 @@
       "price": 804.6,
       "currency": "USD",
       "stock": 82,
-      "rating": 3.0
+      "rating": 3
     },
     {
       "id": 1137,
@@ -1369,7 +1369,7 @@
       "price": 882.75,
       "currency": "USD",
       "stock": 107,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1138,
@@ -1459,7 +1459,7 @@
       "price": 415.09,
       "currency": "USD",
       "stock": 119,
-      "rating": 3.0
+      "rating": 3
     },
     {
       "id": 1147,
@@ -1539,7 +1539,7 @@
       "price": 524.1,
       "currency": "USD",
       "stock": 85,
-      "rating": 3.0
+      "rating": 3
     },
     {
       "id": 1155,
@@ -1549,7 +1549,7 @@
       "price": 311.22,
       "currency": "USD",
       "stock": 38,
-      "rating": 5.0
+      "rating": 5
     },
     {
       "id": 1156,
@@ -1589,7 +1589,7 @@
       "price": 290.94,
       "currency": "USD",
       "stock": 121,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1160,
@@ -1639,7 +1639,7 @@
       "price": 832.1,
       "currency": "USD",
       "stock": 49,
-      "rating": 3.0
+      "rating": 3
     },
     {
       "id": 1165,
@@ -1649,7 +1649,7 @@
       "price": 447.9,
       "currency": "USD",
       "stock": 4,
-      "rating": 5.0
+      "rating": 5
     },
     {
       "id": 1166,
@@ -1689,7 +1689,7 @@
       "price": 449.92,
       "currency": "USD",
       "stock": 78,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1170,
@@ -1789,7 +1789,7 @@
       "price": 284.09,
       "currency": "USD",
       "stock": 33,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1180,
@@ -1829,7 +1829,7 @@
       "price": 535.86,
       "currency": "USD",
       "stock": 138,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1184,
@@ -1859,7 +1859,7 @@
       "price": 850.28,
       "currency": "USD",
       "stock": 122,
-      "rating": 5.0
+      "rating": 5
     },
     {
       "id": 1187,
@@ -1869,7 +1869,7 @@
       "price": 835.84,
       "currency": "USD",
       "stock": 19,
-      "rating": 3.0
+      "rating": 3
     },
     {
       "id": 1188,
@@ -2259,7 +2259,7 @@
       "price": 163.56,
       "currency": "USD",
       "stock": 3,
-      "rating": 5.0
+      "rating": 5
     },
     {
       "id": 1227,
@@ -2316,7 +2316,7 @@
       "name": "Waterproof Speaker 848",
       "category": "Electronics",
       "subcategory": "Speaker",
-      "price": 578.0,
+      "price": 578,
       "currency": "USD",
       "stock": 69,
       "rating": 4.1
@@ -2379,7 +2379,7 @@
       "price": 85.03,
       "currency": "USD",
       "stock": 89,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1239,
@@ -2399,7 +2399,7 @@
       "price": 186.15,
       "currency": "USD",
       "stock": 126,
-      "rating": 5.0
+      "rating": 5
     },
     {
       "id": 1241,
@@ -2469,7 +2469,7 @@
       "price": 595.86,
       "currency": "USD",
       "stock": 130,
-      "rating": 3.0
+      "rating": 3
     },
     {
       "id": 1248,
@@ -2479,7 +2479,7 @@
       "price": 527.56,
       "currency": "USD",
       "stock": 129,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1249,
@@ -2519,7 +2519,7 @@
       "price": 623.55,
       "currency": "USD",
       "stock": 102,
-      "rating": 3.0
+      "rating": 3
     },
     {
       "id": 1253,
@@ -2586,7 +2586,7 @@
       "name": "Heavy-Duty Smartphone 111",
       "category": "Electronics",
       "subcategory": "Smartphone",
-      "price": 39.0,
+      "price": 39,
       "currency": "USD",
       "stock": 118,
       "rating": 3.6
@@ -2599,7 +2599,7 @@
       "price": 657.71,
       "currency": "USD",
       "stock": 36,
-      "rating": 5.0
+      "rating": 5
     },
     {
       "id": 1261,
@@ -2749,7 +2749,7 @@
       "price": 224.41,
       "currency": "USD",
       "stock": 149,
-      "rating": 5.0
+      "rating": 5
     },
     {
       "id": 1276,
@@ -2859,7 +2859,7 @@
       "price": 661.91,
       "currency": "USD",
       "stock": 150,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1287,
@@ -2876,7 +2876,7 @@
       "name": "Waterproof Knife Set 651",
       "category": "Home & Kitchen",
       "subcategory": "Knife Set",
-      "price": 353.0,
+      "price": 353,
       "currency": "USD",
       "stock": 119,
       "rating": 4.9
@@ -2889,7 +2889,7 @@
       "price": 819.24,
       "currency": "USD",
       "stock": 26,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1290,
@@ -2969,7 +2969,7 @@
       "price": 90.76,
       "currency": "USD",
       "stock": 105,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1298,
@@ -3089,7 +3089,7 @@
       "price": 447.9,
       "currency": "USD",
       "stock": 39,
-      "rating": 3.0
+      "rating": 3
     },
     {
       "id": 1310,
@@ -3109,7 +3109,7 @@
       "price": 959.7,
       "currency": "USD",
       "stock": 77,
-      "rating": 5.0
+      "rating": 5
     },
     {
       "id": 1312,
@@ -3119,7 +3119,7 @@
       "price": 912.03,
       "currency": "USD",
       "stock": 26,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1313,
@@ -3199,7 +3199,7 @@
       "price": 64.15,
       "currency": "USD",
       "stock": 70,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1321,
@@ -3299,7 +3299,7 @@
       "price": 558.69,
       "currency": "USD",
       "stock": 106,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1331,
@@ -3376,7 +3376,7 @@
       "name": "Compact Monitor 807",
       "category": "Electronics",
       "subcategory": "Monitor",
-      "price": 283.0,
+      "price": 283,
       "currency": "USD",
       "stock": 108,
       "rating": 3.2
@@ -3499,7 +3499,7 @@
       "price": 408.8,
       "currency": "USD",
       "stock": 131,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1351,
@@ -3589,7 +3589,7 @@
       "price": 417.97,
       "currency": "USD",
       "stock": 79,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1360,
@@ -3619,7 +3619,7 @@
       "price": 367.92,
       "currency": "USD",
       "stock": 9,
-      "rating": 5.0
+      "rating": 5
     },
     {
       "id": 1363,
@@ -3699,7 +3699,7 @@
       "price": 399.34,
       "currency": "USD",
       "stock": 125,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1371,
@@ -3769,7 +3769,7 @@
       "price": 258.72,
       "currency": "USD",
       "stock": 22,
-      "rating": 3.0
+      "rating": 3
     },
     {
       "id": 1378,
@@ -3789,7 +3789,7 @@
       "price": 627.35,
       "currency": "USD",
       "stock": 144,
-      "rating": 5.0
+      "rating": 5
     },
     {
       "id": 1380,
@@ -3819,7 +3819,7 @@
       "price": 752.27,
       "currency": "USD",
       "stock": 147,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1383,
@@ -4009,7 +4009,7 @@
       "price": 928.6,
       "currency": "USD",
       "stock": 139,
-      "rating": 3.0
+      "rating": 3
     },
     {
       "id": 1402,
@@ -4046,7 +4046,7 @@
       "name": "Luxury Bicycle 950",
       "category": "Sports",
       "subcategory": "Bicycle",
-      "price": 466.0,
+      "price": 466,
       "currency": "USD",
       "stock": 120,
       "rating": 3.5
@@ -4099,7 +4099,7 @@
       "price": 247.23,
       "currency": "USD",
       "stock": 111,
-      "rating": 3.0
+      "rating": 3
     },
     {
       "id": 1411,
@@ -4139,7 +4139,7 @@
       "price": 658.23,
       "currency": "USD",
       "stock": 48,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1415,
@@ -4169,7 +4169,7 @@
       "price": 131.03,
       "currency": "USD",
       "stock": 17,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1418,
@@ -4259,7 +4259,7 @@
       "price": 330.52,
       "currency": "USD",
       "stock": 16,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1427,
@@ -4466,7 +4466,7 @@
       "name": "Luxury Jacket 152",
       "category": "Apparel",
       "subcategory": "Jacket",
-      "price": 704.0,
+      "price": 704,
       "currency": "USD",
       "stock": 62,
       "rating": 3.4
@@ -4549,7 +4549,7 @@
       "price": 182.59,
       "currency": "USD",
       "stock": 137,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1456,
@@ -4719,7 +4719,7 @@
       "price": 36.99,
       "currency": "USD",
       "stock": 135,
-      "rating": 5.0
+      "rating": 5
     },
     {
       "id": 1473,
@@ -4839,7 +4839,7 @@
       "price": 851.35,
       "currency": "USD",
       "stock": 42,
-      "rating": 5.0
+      "rating": 5
     },
     {
       "id": 1485,
@@ -4849,7 +4849,7 @@
       "price": 313.34,
       "currency": "USD",
       "stock": 42,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1486,
@@ -4879,7 +4879,7 @@
       "price": 411.22,
       "currency": "USD",
       "stock": 114,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1489,
@@ -4939,7 +4939,7 @@
       "price": 57.35,
       "currency": "USD",
       "stock": 145,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1495,
@@ -4959,7 +4959,7 @@
       "price": 810.19,
       "currency": "USD",
       "stock": 16,
-      "rating": 4.0
+      "rating": 4
     },
     {
       "id": 1497,
@@ -5000,6 +5000,16 @@
       "currency": "USD",
       "stock": 32,
       "rating": 3.1
+    },
+    {
+      "id": 1501,
+      "name": "Mechanical Keyboard",
+      "category": "electronics",
+      "subcategory": "peripherals",
+      "price": 75,
+      "currency": "USD",
+      "stock": 25,
+      "rating": 4.5
     }
   ]
 }
