@@ -8,14 +8,14 @@ app.use(express.urlencoded()) // middleware
 
 app.get("/products", (req, res) => {
     const {count, products} = JSON.parse(fs.readFileSync("./products.json", {encoding:"utf-8"})) 
-
+    
     const {category, subcategory, search } = req.query
     
     let filteredProducts = products.filter(product => {
         const matchesCategory = !category || product.category === category;
         const matchesSubcategory = !subcategory || product.subcategory === subcategory;
         const matchesSearch = !search || product.name.toLowerCase().includes(search.toLowerCase());
-
+        
         return matchesCategory && matchesSubcategory && matchesSearch;
     });
     res.json(filteredProducts);
@@ -26,7 +26,7 @@ app.post('/products', (req, res) => {
     
     let { name, category, subcategory, price, currency, stock, rating } = req.body
     const id = count + 1001;
-
+    
     const newProductObject = {
         id,
         name,
@@ -37,9 +37,9 @@ app.post('/products', (req, res) => {
         stock,
         rating
     };
-
+    
     products.push(newProductObject);
-        
+    
     try {
         fs.writeFileSync('./products.json', JSON.stringify({
             count: count + 1, 
@@ -62,12 +62,13 @@ app.post('/products', (req, res) => {
 
 app.put('/products/:id', (req, res) => {
     const { body, params:{id} } = req;
+    const parsedId = parseInt(id)
 
     let {count, products} = JSON.parse(fs.readFileSync("./products.json", {encoding:"utf-8"}));
     const { name, category, subcategory, price, currency, stock, rating } = body;
     
     // Fetch product index
-    foundProductIndex = products.findIndex((product) => product.id === id);
+    const foundProductIndex = products.findIndex((product) => product.id === parsedId);
 
     if (foundProductIndex < 0) {
         res.status(404).json({ error : `Could not find item with id ${id}.`})
@@ -76,7 +77,7 @@ app.put('/products/:id', (req, res) => {
     }
 
     const updatedProductObject = {
-        id,
+        id: parsedId,
         name,
         category,
         subcategory,

@@ -4963,7 +4963,7 @@
     },
     {
       "id": 1497,
-      "name": "Compact Novel 511",
+      "name": "Updated Compact Novel 511",
       "category": "Books",
       "subcategory": "Novel",
       "price": 395.5,
@@ -4993,13 +4993,13 @@
     },
     {
       "id": 1500,
-      "name": "Vintage Vacuum 550",
-      "category": "Home & Kitchen",
-      "subcategory": "Vacuum",
-      "price": 919.03,
+      "name": "Updated Mechanical Keyboard",
+      "category": "electronics",
+      "subcategory": "peripherals",
+      "price": 89.99,
       "currency": "USD",
-      "stock": 32,
-      "rating": 3.1
+      "stock": 15,
+      "rating": 4.8
     },
     {
       "id": 1501,
