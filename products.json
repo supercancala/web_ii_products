@@ -1,5 +1,6 @@
 {
-  "count": 502,
+  "count": 505,
+  "nextId": 1504,
   "products": [
     {
       "id": 1001,
@@ -40,16 +41,6 @@
       "currency": "USD",
       "stock": 103,
       "rating": 4.9
-    },
-    {
-      "id": 1005,
-      "name": "Solar-Powered Hat 588",
-      "category": "Apparel",
-      "subcategory": "Hat",
-      "price": 587,
-      "currency": "USD",
-      "stock": 137,
-      "rating": 3.9
     },
     {
       "id": 1006,
@@ -5010,6 +5001,26 @@
       "currency": "USD",
       "stock": 25,
       "rating": 4.5
+    },
+    {
+      "id": 1502,
+      "name": "Wireless Monitor 9000",
+      "category": "Electronics",
+      "subcategory": "Monitor",
+      "price": 762.89,
+      "currency": "USD",
+      "stock": 53,
+      "rating": 4.7
+    },
+    {
+      "id": 1503,
+      "name": "Wireless Monitor 9000",
+      "category": "Electronics",
+      "subcategory": "Monitor",
+      "price": 762.89,
+      "currency": "C$",
+      "stock": 53,
+      "rating": 4.7
     }
   ]
 }
