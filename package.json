@@ -18,6 +18,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "^5.2.1"
+    "@sequelize/mariadb": "^7.0.0-alpha.48",
+    "@sequelize/mysql": "^7.0.0-alpha.48",
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1",
+    "mariadb": "^3.4.5",
+    "sequelize": "^6.37.7"
   }
 }

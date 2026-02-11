@@ -1,10 +1,106 @@
 const express = require("express")
 const fs = require("fs")
+const { sequelize, Sequelize, DataTypes } = require('sequelize');
+
+const MySqlDialect = require('@sequelize/mysql');
+
+let dotenv = require('dotenv').config();
 
 const app = express()
 
 app.use(express.json())
 app.use(express.urlencoded()) // middleware
+
+const conn = new Sequelize('web_ii_products', 'root','12345678', {
+    dialect: 'mysql',
+    host: 'localhost',
+    port: 3306,
+    showWarnings: true,
+    connectTimeout: 1000,
+});
+
+
+const connect = async (callback) => {
+    try {
+        await conn.authenticate();
+        console.log('Connected to DB');
+        callback();
+    } catch (e){
+        console.log('Error connecting to DB', e);
+    } finally{
+        await conn.close()
+        console.log('Connection closed');
+    }
+};
+
+// connect(() => console.log("Querying data..."));
+
+const Category = conn.define('Category',
+    {
+        name: {
+            type: DataTypes.STRING,
+            allowNull: false,
+        }
+    }
+);
+
+const Subcategory = conn.define('Subcategory',
+    {
+        name: {
+            type: DataTypes.STRING,
+            allowNull: false
+        },
+        category_id: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        }
+    }
+)
+
+const Product = conn.define('Product',
+    {
+        name: {
+            type: DataTypes.STRING,
+            allowNull: false,
+            unique: true
+        },
+        subcategory_id: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        price: {
+            type: DataTypes.FLOAT,
+            allowNull: false,
+            defaultValue: 0.0
+        },
+        currency: {
+            type: DataTypes.STRING,
+            allowNull: false,
+            defaultValue: 'USD'
+        },
+        stock: {
+            type: DataTypes.INTEGER,
+            allowNull: false,
+            defaultValue: 0
+        },
+        rating: {
+            type: DataTypes.FLOAT,
+            allowNull: false,
+            defaultValue: 0.0
+        }  
+    }
+)
+
+Subcategory.belongsTo(Category, {
+    foreignKey: 'category_id'
+});
+
+Product.belongsTo(Subcategory, {
+    foreignKey: 'subcategory_id'
+});
+
+conn.sync({force: true})
+
 
 const checkProductExistance = (req, res, next) =>{
     // logica para buscar el producto
@@ -86,7 +182,7 @@ app.get("/products/:id", checkProductExistance, (req, res) => {
     res.status(200).json(products[productIndex]);
 });
 
-app.post('/products', (req, res) => {
+app.post('/products', checkPayload, (req, res) => {
     let {count, products, nextId} = JSON.parse(fs.readFileSync("./products.json", {encoding:"utf-8"}));
     nextId = parseInt(nextId);
     
@@ -124,7 +220,7 @@ app.post('/products', (req, res) => {
     }
 })
 
-app.put('/products/:id', checkProductExistance, (req, res) => {
+app.put('/products/:id', checkPayload, checkProductExistance, (req, res) => {
     const { body, params:{id} } = req;
     const parsedId = parseInt(id);
 
