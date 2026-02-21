@@ -3,6 +3,7 @@ const fs = require("fs")
 const { sequelize, Sequelize, DataTypes } = require('sequelize');
 
 const MySqlDialect = require('@sequelize/mysql');
+const { subscribe } = require("diagnostics_channel");
 
 let dotenv = require('dotenv').config();
 
@@ -11,7 +12,7 @@ const app = express()
 app.use(express.json())
 app.use(express.urlencoded()) // middleware
 
-const conn = new Sequelize('web_ii_products', 'root','12345678', {
+const conn = new Sequelize('products_db', 'root','13572468', {
     dialect: 'mysql',
     host: 'localhost',
     port: 3306,
@@ -19,21 +20,6 @@ const conn = new Sequelize('web_ii_products', 'root','12345678', {
     connectTimeout: 1000,
 });
 
-
-const connect = async (callback) => {
-    try {
-        await conn.authenticate();
-        console.log('Connected to DB');
-        callback();
-    } catch (e){
-        console.log('Error connecting to DB', e);
-    } finally{
-        await conn.close()
-        console.log('Connection closed');
-    }
-};
-
-// connect(() => console.log("Querying data..."));
 
 const Category = conn.define('Category',
     {
@@ -61,8 +47,8 @@ const Product = conn.define('Product',
     {
         name: {
             type: DataTypes.STRING,
+            unique: true,
             allowNull: false,
-            unique: true
         },
         subcategory_id: {
             type: DataTypes.INTEGER,
@@ -98,9 +84,6 @@ Subcategory.belongsTo(Category, {
 Product.belongsTo(Subcategory, {
     foreignKey: 'subcategory_id'
 });
-
-conn.sync({force: true})
-
 
 const checkProductExistance = (req, res, next) =>{
     // logica para buscar el producto
@@ -278,4 +261,81 @@ app.delete('/products/:id', checkProductExistance, (req, res) => {
     }
 });
 
-app.listen(9000, () => console.log("Server running on port 9000"))
+const getUniqueCategories = (jsonProducts) => {
+    const categorySet = new Set(jsonProducts.map(p => p.category));
+    return [...categorySet].map((c => ({"name": c})));
+}
+
+const createLookupMap = (dbRecords) => {
+    // Works for either categories or subcategories !!!
+    return new Map(dbRecords.map(record => ([record.name, record.id])))
+}
+
+const getSubcategoryMap = (categoryPairs, categoryMap) => {
+    const subcategoryMap = new Map();
+    for (const pair of categoryPairs){
+        subcategoryMap.set(pair.subcategory, categoryMap.get(pair.category));
+    }
+    return subcategoryMap
+}
+
+const getNamePairs = (jsonProducts) => {
+    const categoryPair = [];
+    for (const product of jsonProducts){
+        if (!categoryPair.some(pair => pair.subcategory === product.subcategory)){
+            categoryPair.push({ subcategory: product.subcategory, category: product.category });
+        }
+    }
+    return categoryPair
+}
+
+const getUniqueSubcategories = (jsonProducts, dbCategories) => {
+    const namePairs = getNamePairs(jsonProducts)
+    const categoryToIdMap = createLookupMap(dbCategories);
+    const subcategoryToCatIdMap = getSubcategoryMap(namePairs, categoryToIdMap);
+    const subcategoryObjects = [];
+
+    for (const [subcategory, category_id] of subcategoryToCatIdMap){
+        subcategoryObjects.push({ name: subcategory, category_id: category_id})
+    }
+
+    return subcategoryObjects;
+}
+
+const getProducts = (jsonProducts, subcategories) => {
+    const subcategoryToIdMap = createLookupMap(subcategories);
+    return jsonProducts.map(p => ({
+        name: p.name,
+        price: p.price,
+        currency: p.currency,
+        stock: p.stock,
+        rating: p.rating,
+        subcategory_id: subcategoryToIdMap.get(p.subcategory)
+    }));
+}
+
+async function seedDatabase(){
+    if (!process.argv.includes('--seed')) return;
+    
+    const { products: jsonProducts } = JSON.parse(fs.readFileSync('./products.json', {encoding:"utf-8"}));
+    const categoryObjects = getUniqueCategories(jsonProducts);
+    const dbCategories = await Category.bulkCreate(categoryObjects);
+
+    const subcategoryObjects = getUniqueSubcategories(jsonProducts, dbCategories);
+    const dbSubcategories = await Subcategory.bulkCreate(subcategoryObjects);
+
+    const productObjects = getProducts(jsonProducts, dbSubcategories);
+    const dbProducts = await Product.bulkCreate(productObjects);
+
+    console.log("Data seeded successfully!");
+}
+
+conn.sync({ force: true }).then(async () => {
+    console.log("Database & tables created!");
+    
+    // Now that the tables are empty and ready, run your seeder
+    await seedDatabase();
+    
+    // Finally, start the server
+    app.listen(9000, () => console.log("Server running on port 9000"));
+});
